@@ -86,7 +86,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 846,
+		"ips": 847,
 		"common": 29
 	},
 	{
@@ -236,7 +236,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 7632,
+		"ips": 7634,
 		"common": 176
 	},
 	{
@@ -290,26 +290,26 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 56,
-		"common": 3
+		"ips": 50,
+		"common": 2
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1455,
-		"common": 43
+		"ips": 1462,
+		"common": 45
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 19148,
-		"common": 507
+		"ips": 19140,
+		"common": 508
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5636,
-		"common": 149
+		"ips": 5627,
+		"common": 150
 	},
 	{
 		"name": "botvrij_dst",
@@ -356,8 +356,8 @@
 	{
 		"name": "cleanmx_viruses",
 		"category": "spam",
-		"ips": 9559,
-		"common": 180
+		"ips": 6653,
+		"common": 122
 	},
 	{
 		"name": "cleantalk",
@@ -522,10 +522,16 @@
 		"common": 31
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 257
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 111616,
-		"common": 2247
+		"ips": 112640,
+		"common": 2503
 	},
 	{
 		"name": "dshield_30d",
@@ -536,8 +542,8 @@
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 455424,
-		"common": 6372
+		"ips": 456448,
+		"common": 6628
 	},
 	{
 		"name": "dshield_top_1000",
@@ -602,8 +608,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 16381,
-		"common": 474
+		"ips": 16388,
+		"common": 475
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -620,14 +626,14 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 667232083,
-		"common": 39
+		"ips": 667232084,
+		"common": 296
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 131901,
-		"common": 2383
+		"ips": 132925,
+		"common": 2639
 	},
 	{
 		"name": "firehol_level3",
@@ -638,8 +644,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568943,
-		"common": 1771
+		"ips": 9566092,
+		"common": 1714
 	},
 	{
 		"name": "firehol_proxies",
@@ -1574,13 +1580,13 @@
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 125,
+		"ips": 126,
 		"common": 1
 	},
 	{
 		"name": "xroxy_30d",
 		"category": "anonymizers",
-		"ips": 556,
+		"ips": 555,
 		"common": 16
 	},
 	{
