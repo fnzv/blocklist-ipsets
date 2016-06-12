@@ -86,7 +86,7 @@
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 120,
+		"ips": 121,
 		"common": 1
 	},
 	{
@@ -110,7 +110,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 848,
+		"ips": 842,
 		"common": 17
 	},
 	{
@@ -200,14 +200,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 19034,
-		"common": 68
+		"ips": 19027,
+		"common": 70
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9884,
-		"common": 3
+		"ips": 9889,
+		"common": 4
 	},
 	{
 		"name": "blocklist_de_bots",
@@ -218,38 +218,38 @@
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 344,
-		"common": 2
+		"ips": 350,
+		"common": 3
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 486,
+		"ips": 487,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 914,
+		"ips": 908,
 		"common": 7
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 15640,
-		"common": 29
+		"ips": 15624,
+		"common": 30
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1700,
+		"ips": 1703,
 		"common": 23
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 7606,
-		"common": 66
+		"ips": 7604,
+		"common": 65
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -296,25 +296,25 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 62,
-		"common": 1
+		"ips": 58,
+		"common": 2
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1458,
-		"common": 12
+		"ips": 1449,
+		"common": 13
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 19149,
+		"ips": 19154,
 		"common": 109
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5630,
+		"ips": 5634,
 		"common": 39
 	},
 	{
@@ -494,7 +494,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 303196,
+		"ips": 303195,
 		"common": 4175
 	},
 	{
@@ -746,8 +746,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 16259,
-		"common": 80
+		"ips": 16257,
+		"common": 81
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -758,7 +758,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91781,
+		"ips": 91834,
 		"common": 527
 	},
 	{
@@ -770,8 +770,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 132316,
-		"common": 2127
+		"ips": 132309,
+		"common": 2129
 	},
 	{
 		"name": "firehol_level3",
@@ -782,13 +782,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568920,
-		"common": 179635
+		"ips": 9568923,
+		"common": 179634
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34342,
+		"ips": 34395,
 		"common": 371
 	},
 	{
@@ -1401,25 +1401,25 @@
 		"name": "proxyspy",
 		"category": "anonymizers",
 		"ips": 300,
-		"common": 7
+		"common": 11
 	},
 	{
 		"name": "proxyspy_1d",
 		"category": "anonymizers",
-		"ips": 893,
-		"common": 22
+		"ips": 943,
+		"common": 24
 	},
 	{
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
-		"ips": 6356,
-		"common": 107
+		"ips": 6363,
+		"common": 108
 	},
 	{
 		"name": "proxyspy_7d",
 		"category": "anonymizers",
-		"ips": 2516,
-		"common": 48
+		"ips": 2508,
+		"common": 49
 	},
 	{
 		"name": "proxz_1d",
@@ -1548,15 +1548,9 @@
 		"common": 432
 	},
 	{
-		"name": "socks_proxy",
-		"category": "anonymizers",
-		"ips": 80,
-		"common": 2
-	},
-	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1578,
+		"ips": 1598,
 		"common": 16
 	},
 	{
@@ -1662,27 +1656,21 @@
 		"common": 53
 	},
 	{
-		"name": "sslproxies",
-		"category": "anonymizers",
-		"ips": 100,
-		"common": 3
-	},
-	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 654,
+		"ips": 703,
 		"common": 11
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 14392,
+		"ips": 14440,
 		"common": 59
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 3816,
+		"ips": 3860,
 		"common": 31
 	},
 	{
