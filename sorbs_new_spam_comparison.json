@@ -194,7 +194,7 @@
 	{
 		"name": "bruteforceblocker",
 		"category": "attacks",
-		"ips": 1141,
+		"ips": 1143,
 		"common": 1
 	},
 	{
@@ -326,7 +326,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6990,
+		"ips": 6974,
 		"common": 6
 	},
 	{
@@ -344,7 +344,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 303345,
+		"ips": 303344,
 		"common": 271
 	},
 	{
@@ -366,27 +366,21 @@
 		"common": 71
 	},
 	{
-		"name": "dshield",
-		"category": "attacks",
-		"ips": 5120,
-		"common": 2
-	},
-	{
 		"name": "dshield_1d",
 		"category": "attacks",
 		"ips": 111616,
-		"common": 35
+		"common": 34
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 2013184,
+		"ips": 2012928,
 		"common": 352
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 456192,
+		"ips": 458240,
 		"common": 90
 	},
 	{
@@ -464,14 +458,14 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91955,
+		"ips": 91986,
 		"common": 1516
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 667232095,
-		"common": 458
+		"common": 456
 	},
 	{
 		"name": "firehol_level2",
@@ -482,7 +476,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2167697,
+		"ips": 2167446,
 		"common": 8101
 	},
 	{
@@ -1143,13 +1137,13 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 42
+		"common": 51
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1589,
-		"common": 949
+		"ips": 1588,
+		"common": 947
 	},
 	{
 		"name": "socks_proxy_30d",
@@ -1160,8 +1154,8 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 3745,
-		"common": 1294
+		"ips": 3737,
+		"common": 1293
 	},
 	{
 		"name": "sorbs_anonymizers",
