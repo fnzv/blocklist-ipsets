@@ -110,8 +110,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 7782,
-		"common": 48
+		"ips": 7905,
+		"common": 49
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
@@ -452,8 +452,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569099,
-		"common": 241
+		"ips": 9569221,
+		"common": 242
 	},
 	{
 		"name": "firehol_proxies",
@@ -808,6 +808,12 @@
 		"category": "reputation",
 		"ips": 185,
 		"common": 60
+	},
+	{
+		"name": "packetmail_ramnode",
+		"category": "reputation",
+		"ips": 1031,
+		"common": 1
 	},
 	{
 		"name": "php_commenters_1d",
