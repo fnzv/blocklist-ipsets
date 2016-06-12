@@ -116,8 +116,8 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6946,
-		"common": 129
+		"ips": 6958,
+		"common": 128
 	},
 	{
 		"name": "botscout_30d",
@@ -192,16 +192,28 @@
 		"common": 4
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 1
+	},
+	{
+		"name": "dshield_1d",
+		"category": "attacks",
+		"ips": 111104,
+		"common": 1
+	},
+	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 2017792,
-		"common": 13
+		"ips": 2015232,
+		"common": 14
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 457984,
-		"common": 7
+		"ips": 456448,
+		"common": 8
 	},
 	{
 		"name": "et_block",
@@ -236,20 +248,26 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91834,
-		"common": 129
+		"ips": 91797,
+		"common": 128
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 667232089,
-		"common": 8
+		"ips": 667232088,
+		"common": 9
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 131288,
+		"common": 1
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2176972,
-		"common": 25
+		"ips": 2174411,
+		"common": 26
 	},
 	{
 		"name": "firehol_level4",
@@ -260,7 +278,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34395,
+		"ips": 34406,
 		"common": 1
 	},
 	{
@@ -440,7 +458,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 864,
+		"ips": 863,
 		"common": 6
 	},
 	{
