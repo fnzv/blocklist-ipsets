@@ -164,31 +164,31 @@
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
-		"ips": 485,
+		"ips": 484,
 		"common": 30
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4808,
-		"common": 902
+		"ips": 4806,
+		"common": 909
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6342,
-		"common": 1451
+		"ips": 6349,
+		"common": 1454
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 28585,
-		"common": 8425
+		"ips": 28589,
+		"common": 8426
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 11911,
+		"ips": 11910,
 		"common": 3262
 	},
 	{
@@ -302,8 +302,8 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6958,
-		"common": 746
+		"ips": 6970,
+		"common": 750
 	},
 	{
 		"name": "bogons",
@@ -770,20 +770,20 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 16259,
-		"common": 1241
+		"ips": 16266,
+		"common": 1242
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 336167,
+		"ips": 336168,
 		"common": 36691
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91898,
-		"common": 13668
+		"ips": 91844,
+		"common": 13656
 	},
 	{
 		"name": "firehol_level1",
@@ -1362,15 +1362,27 @@
 		"common": 128
 	},
 	{
+		"name": "php_commenters",
+		"category": "spam",
+		"ips": 50,
+		"common": 1
+	},
+	{
+		"name": "php_commenters_1d",
+		"category": "spam",
+		"ips": 94,
+		"common": 1
+	},
+	{
 		"name": "php_commenters_30d",
 		"category": "spam",
-		"ips": 702,
+		"ips": 698,
 		"common": 15
 	},
 	{
 		"name": "php_commenters_7d",
 		"category": "spam",
-		"ips": 231,
+		"ips": 237,
 		"common": 4
 	},
 	{
@@ -1544,7 +1556,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 863,
+		"ips": 862,
 		"common": 9
 	},
 	{
