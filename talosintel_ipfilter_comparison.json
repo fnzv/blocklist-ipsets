@@ -104,73 +104,73 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4635,
+		"ips": 4641,
 		"common": 8
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6239,
+		"ips": 6243,
 		"common": 11
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 28544,
+		"ips": 28540,
 		"common": 14
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 11853,
+		"ips": 11856,
 		"common": 11
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 19288,
+		"ips": 19255,
 		"common": 425
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9910,
+		"ips": 9875,
 		"common": 6
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 548,
+		"ips": 552,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 373,
+		"ips": 337,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 477,
+		"ips": 479,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 912,
+		"ips": 917,
 		"common": 7
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 15842,
+		"ips": 15834,
 		"common": 414
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1725,
+		"ips": 1728,
 		"common": 5
 	},
 	{
@@ -584,14 +584,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 134600,
+		"ips": 134567,
 		"common": 463
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 2173429,
-		"common": 98906
+		"common": 98789
 	},
 	{
 		"name": "firehol_level4",
@@ -717,7 +717,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 3238
+		"common": 3233
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -741,7 +741,7 @@
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227983904,
-		"common": 416
+		"common": 415
 	},
 	{
 		"name": "iblocklist_hijacked",
@@ -819,7 +819,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762822833,
-		"common": 734
+		"common": 732
 	},
 	{
 		"name": "iblocklist_level2",
@@ -831,7 +831,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 5914
+		"common": 5906
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -939,13 +939,13 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 969
+		"common": 968
 	},
 	{
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 367906,
-		"common": 15022
+		"common": 15009
 	},
 	{
 		"name": "malwaredomainlist",
@@ -968,8 +968,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 26432,
-		"common": 3155
+		"ips": 25956,
+		"common": 3069
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -981,7 +981,7 @@
 		"name": "nullsecure",
 		"category": "reputation",
 		"ips": 29439,
-		"common": 46
+		"common": 45
 	},
 	{
 		"name": "openbl_180d",
@@ -1305,7 +1305,7 @@
 		"name": "snort_ipfilter",
 		"category": "attacks",
 		"ips": 101511,
-		"common": 98725
+		"common": 98608
 	},
 	{
 		"name": "socks_proxy",
@@ -1341,25 +1341,25 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373408712,
-		"common": 12670
+		"common": 12652
 	},
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
 		"ips": 46423,
-		"common": 8100
+		"common": 8098
 	},
 	{
 		"name": "sorbs_noserver",
 		"category": "spam",
 		"ips": 20924774,
-		"common": 3409
+		"common": 3400
 	},
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 1155052,
-		"common": 41923
+		"common": 41889
 	},
 	{
 		"name": "sorbs_smtp",
@@ -1371,7 +1371,7 @@
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 5997070,
-		"common": 13151
+		"common": 13135
 	},
 	{
 		"name": "sorbs_zombie",
