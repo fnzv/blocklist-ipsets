@@ -294,9 +294,15 @@
 		"common": 23
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 1
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 111872,
+		"ips": 113920,
 		"common": 26
 	},
 	{
@@ -308,7 +314,7 @@
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 450304,
+		"ips": 452096,
 		"common": 47
 	},
 	{
@@ -362,13 +368,13 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 667232085,
-		"common": 132
+		"ips": 667232086,
+		"common": 133
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 132350,
+		"ips": 134398,
 		"common": 226
 	},
 	{
@@ -688,6 +694,12 @@
 		"category": "attacks",
 		"ips": 118575,
 		"common": 26
+	},
+	{
+		"name": "packetmail",
+		"category": "reputation",
+		"ips": 1260,
+		"common": 1
 	},
 	{
 		"name": "packetmail_emerging_ips",
