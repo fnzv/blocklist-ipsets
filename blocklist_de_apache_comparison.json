@@ -86,7 +86,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 18647,
+		"ips": 18613,
 		"common": 9944
 	},
 	{
@@ -104,7 +104,7 @@
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 15282,
+		"ips": 15254,
 		"common": 9268
 	},
 	{
@@ -116,8 +116,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 7372,
-		"common": 235
+		"ips": 7377,
+		"common": 236
 	},
 	{
 		"name": "blueliv_crimeserver_last_2d",
@@ -201,7 +201,7 @@
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 172107,
-		"common": 277
+		"common": 278
 	},
 	{
 		"name": "cleantalk_7d",
@@ -255,7 +255,7 @@
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
 		"ips": 99310,
-		"common": 266
+		"common": 267
 	},
 	{
 		"name": "cleantalk_updated_7d",
@@ -321,24 +321,24 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 108800,
+		"ips": 107776,
 		"common": 22
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 2008576,
+		"ips": 2008320,
 		"common": 70
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 460288,
+		"ips": 460800,
 		"common": 45
 	},
 	{
@@ -393,7 +393,7 @@
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 22911800,
-		"common": 14
+		"common": 13
 	},
 	{
 		"name": "et_compromised",
@@ -411,7 +411,7 @@
 		"name": "et_spamhaus",
 		"category": "attacks",
 		"ips": 22905856,
-		"common": 13
+		"common": 12
 	},
 	{
 		"name": "et_tor",
@@ -429,55 +429,55 @@
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 332605,
-		"common": 403
+		"common": 404
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91910,
+		"ips": 91911,
 		"common": 9
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 667232087,
-		"common": 1804
+		"ips": 667232085,
+		"common": 1802
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 128254,
+		"ips": 127198,
 		"common": 9944
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2164405,
-		"common": 93
+		"ips": 2164149,
+		"common": 94
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9566134,
-		"common": 283
+		"ips": 9566137,
+		"common": 284
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34480,
+		"ips": 34481,
 		"common": 2
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 46077665,
-		"common": 4264
+		"common": 4265
 	},
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1094999,
-		"common": 41
+		"common": 42
 	},
 	{
 		"name": "gpf_comics",
@@ -531,7 +531,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 46
+		"common": 45
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -603,7 +603,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 2139
+		"common": 2140
 	},
 	{
 		"name": "iblocklist_malc0de",
@@ -627,13 +627,13 @@
 		"name": "iblocklist_rangetest",
 		"category": "reputation",
 		"ips": 4346058,
-		"common": 13
+		"common": 14
 	},
 	{
 		"name": "iblocklist_spamhaus_drop",
 		"category": "attacks",
 		"ips": 22836992,
-		"common": 1801
+		"common": 1800
 	},
 	{
 		"name": "iblocklist_spyware",
@@ -699,7 +699,7 @@
 		"name": "myip",
 		"category": "abuse",
 		"ips": 2127,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "nixspam",
@@ -825,7 +825,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 45869192,
-		"common": 4253
+		"common": 4254
 	},
 	{
 		"name": "sblam",
@@ -897,7 +897,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136185247,
-		"common": 41
+		"common": 40
 	},
 	{
 		"name": "sp_atma",
@@ -909,13 +909,13 @@
 		"name": "spamhaus_drop",
 		"category": "reputation",
 		"ips": 22836736,
-		"common": 1801
+		"common": 1800
 	},
 	{
 		"name": "spamhaus_edrop",
 		"category": "reputation",
 		"ips": 797440,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "sslbl_aggressive",
