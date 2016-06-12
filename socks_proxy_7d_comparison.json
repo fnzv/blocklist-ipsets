@@ -252,12 +252,6 @@
 		"common": 24
 	},
 	{
-		"name": "dshield",
-		"category": "attacks",
-		"ips": 5120,
-		"common": 1
-	},
-	{
 		"name": "dshield_1d",
 		"category": "attacks",
 		"ips": 112640,
@@ -266,13 +260,13 @@
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 2016000,
+		"ips": 2018304,
 		"common": 40
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 456448,
+		"ips": 457984,
 		"common": 7
 	},
 	{
@@ -290,25 +284,19 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91742,
+		"ips": 91696,
 		"common": 3741
-	},
-	{
-		"name": "firehol_level1",
-		"category": "attacks",
-		"ips": 667232085,
-		"common": 1
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 132847,
+		"ips": 132855,
 		"common": 968
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2174711,
+		"ips": 2177030,
 		"common": 305
 	},
 	{
@@ -560,8 +548,8 @@
 	{
 		"name": "packetmail_mail",
 		"category": "reputation",
-		"ips": 200,
-		"common": 19
+		"ips": 189,
+		"common": 20
 	},
 	{
 		"name": "php_commenters_30d",
