@@ -15,7 +15,7 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 2174411,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "iblocklist_bogons",
@@ -30,22 +30,10 @@
 		"common": 1
 	},
 	{
-		"name": "lashback_ubl",
-		"category": "spam",
-		"ips": 367906,
-		"common": 1
-	},
-	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 28929,
+		"ips": 29176,
 		"common": 2
-	},
-	{
-		"name": "snort_ipfilter",
-		"category": "attacks",
-		"ips": 101511,
-		"common": 1
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -57,18 +45,12 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 1140742,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 5997128,
-		"common": 1
-	},
-	{
-		"name": "talosintel_ipfilter",
-		"category": "attacks",
-		"ips": 97893,
 		"common": 1
 	}
 ]
