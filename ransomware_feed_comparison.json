@@ -20,7 +20,7 @@
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 120,
+		"ips": 121,
 		"common": 2
 	},
 	{
@@ -44,7 +44,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 19263,
+		"ips": 19283,
 		"common": 2
 	},
 	{
@@ -56,13 +56,13 @@
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 15844,
+		"ips": 15852,
 		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 8186,
+		"ips": 8183,
 		"common": 12
 	},
 	{
@@ -111,30 +111,24 @@
 		"name": "bogons",
 		"category": "unroutable",
 		"ips": 592708608,
-		"common": 1
-	},
-	{
-		"name": "botscout",
-		"category": "abuse",
-		"ips": 52,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1461,
+		"ips": 1457,
 		"common": 2
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 19102,
+		"ips": 19108,
 		"common": 2
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5630,
+		"ips": 5626,
 		"common": 2
 	},
 	{
@@ -153,7 +147,7 @@
 		"name": "cidr_report_bogons",
 		"category": "unroutable",
 		"ips": 604561992,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "cleanmx_phishing",
@@ -164,8 +158,8 @@
 	{
 		"name": "cleanmx_viruses",
 		"category": "spam",
-		"ips": 9617,
-		"common": 60
+		"ips": 2603,
+		"common": 20
 	},
 	{
 		"name": "cleantalk_30d",
@@ -248,19 +242,19 @@
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 114688,
+		"ips": 115200,
 		"common": 1
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 2015744,
+		"ips": 2018048,
 		"common": 14
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 450048,
+		"ips": 452352,
 		"common": 5
 	},
 	{
@@ -296,7 +290,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 16461,
+		"ips": 16454,
 		"common": 2
 	},
 	{
@@ -308,50 +302,50 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91727,
+		"ips": 91728,
 		"common": 2
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 667232086,
-		"common": 154
+		"common": 155
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 135083,
+		"ips": 135615,
 		"common": 3
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2174130,
+		"ips": 2175410,
 		"common": 39
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569488,
-		"common": 125
+		"ips": 9562629,
+		"common": 92
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34324,
+		"ips": 34325,
 		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 46077581,
-		"common": 499
+		"common": 500
 	},
 	{
 		"name": "fullbogons",
 		"category": "unroutable",
 		"ips": 643617320,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "gofferje_sip",
@@ -375,7 +369,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 18443,
-		"common": 419
+		"common": 420
 	},
 	{
 		"name": "hphosts_exp",
@@ -435,7 +429,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 67
+		"common": 68
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -447,7 +441,7 @@
 		"name": "iblocklist_cidr_report_bogons",
 		"category": "unroutable",
 		"ips": 604566088,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "iblocklist_cruzit_web_attacks",
@@ -465,6 +459,18 @@
 		"name": "iblocklist_exclusions",
 		"category": "reputation",
 		"ips": 7427,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_fornonlancomputers",
+		"category": "reputation",
+		"ips": 302055424,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_iana_private",
+		"category": "unroutable",
+		"ips": 51643638,
 		"common": 1
 	},
 	{
@@ -728,19 +734,19 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 626,
+		"ips": 620,
 		"common": 1
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 14298,
+		"ips": 14297,
 		"common": 1
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 3822,
+		"ips": 3802,
 		"common": 1
 	},
 	{
