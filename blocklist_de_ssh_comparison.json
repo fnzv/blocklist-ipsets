@@ -3,12 +3,30 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 12247,
-		"common": 445
+		"common": 446
 	},
 	{
 		"name": "anonymous",
 		"category": "geolocation",
 		"ips": 50776,
+		"common": 1
+	},
+	{
+		"name": "atlas_scans_2d",
+		"category": "attacks",
+		"ips": 20,
+		"common": 1
+	},
+	{
+		"name": "atlas_scans_30d",
+		"category": "attacks",
+		"ips": 122,
+		"common": 1
+	},
+	{
+		"name": "atlas_scans_7d",
+		"category": "attacks",
+		"ips": 30,
 		"common": 1
 	},
 	{
@@ -27,25 +45,25 @@
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 21157,
-		"common": 509
+		"common": 510
 	},
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
 		"ips": 910,
-		"common": 514
+		"common": 516
 	},
 	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 8477,
-		"common": 784
+		"common": 787
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 3467,
-		"common": 758
+		"common": 760
 	},
 	{
 		"name": "bi_mail_2_30d",
@@ -57,7 +75,13 @@
 		"name": "bi_ssh_2_30d",
 		"category": "attacks",
 		"ips": 6110,
-		"common": 791
+		"common": 793
+	},
+	{
+		"name": "bi_voip_2_30d",
+		"category": "attacks",
+		"ips": 100,
+		"common": 1
 	},
 	{
 		"name": "bitcoin_blockchain_info_30d",
@@ -68,20 +92,20 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 28629,
+		"ips": 28625,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 11918,
+		"ips": 11910,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 18752,
-		"common": 1694
+		"ips": 18779,
+		"common": 1704
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -92,7 +116,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 7407,
+		"ips": 7408,
 		"common": 71
 	},
 	{
@@ -285,19 +309,19 @@
 		"name": "dshield_1d",
 		"category": "attacks",
 		"ips": 112640,
-		"common": 93
+		"common": 94
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 2013184,
-		"common": 252
+		"common": 254
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 459776,
-		"common": 178
+		"common": 180
 	},
 	{
 		"name": "dshield_top_1000",
@@ -356,19 +380,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 132179,
-		"common": 1694
+		"ips": 132205,
+		"common": 1704
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2167981,
-		"common": 566
+		"ips": 2168187,
+		"common": 568
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568749,
+		"ips": 9568750,
 		"common": 210
 	},
 	{
@@ -423,7 +447,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 108
+		"common": 109
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -489,7 +513,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 141
+		"common": 143
 	},
 	{
 		"name": "iblocklist_level3",
@@ -554,7 +578,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 32880,
+		"ips": 32862,
 		"common": 13
 	},
 	{
@@ -573,7 +597,7 @@
 		"name": "openbl_180d",
 		"category": "attacks",
 		"ips": 9485,
-		"common": 454
+		"common": 455
 	},
 	{
 		"name": "openbl_1d",
@@ -591,13 +615,13 @@
 		"name": "openbl_360d",
 		"category": "attacks",
 		"ips": 20871,
-		"common": 466
+		"common": 467
 	},
 	{
 		"name": "openbl_60d",
 		"category": "attacks",
 		"ips": 3531,
-		"common": 406
+		"common": 407
 	},
 	{
 		"name": "openbl_7d",
@@ -609,13 +633,13 @@
 		"name": "openbl_90d",
 		"category": "attacks",
 		"ips": 5109,
-		"common": 430
+		"common": 431
 	},
 	{
 		"name": "openbl_all",
 		"category": "attacks",
 		"ips": 118596,
-		"common": 481
+		"common": 482
 	},
 	{
 		"name": "packetmail",
@@ -812,7 +836,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 94459,
+		"ips": 94686,
 		"common": 7
 	},
 	{
@@ -837,6 +861,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 17002,
-		"common": 7
+		"common": 8
 	}
 ]
