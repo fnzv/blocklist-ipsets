@@ -44,8 +44,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 7831,
-		"common": 35
+		"ips": 7915,
+		"common": 37
 	},
 	{
 		"name": "bm_tor",
@@ -63,66 +63,66 @@
 		"name": "botscout_1d",
 		"category": "abuse",
 		"ips": 1440,
-		"common": 45
+		"common": 46
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
 		"ips": 19162,
-		"common": 49
+		"common": 50
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
 		"ips": 5631,
-		"common": 45
+		"common": 46
 	},
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 4359,
-		"common": 2359
+		"ips": 4361,
+		"common": 2361
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 10187,
-		"common": 2347
+		"ips": 10148,
+		"common": 2349
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 173253,
-		"common": 2222
+		"ips": 173184,
+		"common": 2225
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 34107,
-		"common": 2312
+		"ips": 34099,
+		"common": 2314
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 5293,
-		"common": 2359
+		"ips": 5266,
+		"common": 2361
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 111643,
-		"common": 2359
+		"ips": 111594,
+		"common": 2361
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 22739,
-		"common": 2359
+		"ips": 22724,
+		"common": 2361
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 100896,
+		"ips": 100818,
 		"common": 11
 	},
 	{
@@ -165,13 +165,13 @@
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 22911800,
-		"common": 44
+		"common": 43
 	},
 	{
 		"name": "et_spamhaus",
 		"category": "attacks",
 		"ips": 22905856,
-		"common": 44
+		"common": 43
 	},
 	{
 		"name": "et_tor",
@@ -182,14 +182,14 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 15842,
-		"common": 2358
+		"ips": 15805,
+		"common": 2360
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 333605,
-		"common": 2353
+		"ips": 333526,
+		"common": 2355
 	},
 	{
 		"name": "firehol_anonymous",
@@ -201,12 +201,12 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 667232091,
-		"common": 44
+		"common": 43
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 131513,
+		"ips": 130490,
 		"common": 73
 	},
 	{
@@ -218,8 +218,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569131,
-		"common": 91
+		"ips": 9569215,
+		"common": 94
 	},
 	{
 		"name": "firehol_proxies",
@@ -231,13 +231,13 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 46077665,
-		"common": 424
+		"common": 426
 	},
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1094999,
-		"common": 62
+		"common": 64
 	},
 	{
 		"name": "gpf_comics",
@@ -291,7 +291,7 @@
 		"name": "iblocklist_isp_charter",
 		"category": "organizations",
 		"ips": 6138112,
-		"common": 10
+		"common": 8
 	},
 	{
 		"name": "iblocklist_isp_comcast",
@@ -321,7 +321,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762822833,
-		"common": 41
+		"common": 39
 	},
 	{
 		"name": "iblocklist_level2",
@@ -333,7 +333,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 71
+		"common": 73
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -357,7 +357,7 @@
 		"name": "iblocklist_spamhaus_drop",
 		"category": "attacks",
 		"ips": 22836992,
-		"common": 44
+		"common": 43
 	},
 	{
 		"name": "iblocklist_spyware",
@@ -555,7 +555,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 45869192,
-		"common": 421
+		"common": 423
 	},
 	{
 		"name": "ri_web_proxies",
@@ -621,7 +621,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373408712,
-		"common": 301
+		"common": 304
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -657,7 +657,7 @@
 		"name": "spamhaus_drop",
 		"category": "reputation",
 		"ips": 22836736,
-		"common": 44
+		"common": 43
 	},
 	{
 		"name": "sslproxies",
