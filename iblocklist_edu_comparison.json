@@ -488,7 +488,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 303358,
+		"ips": 303354,
 		"common": 4178
 	},
 	{
@@ -770,8 +770,8 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2167194,
-		"common": 17772
+		"ips": 2167188,
+		"common": 17771
 	},
 	{
 		"name": "firehol_level4",
@@ -1172,8 +1172,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 32755,
-		"common": 225
+		"ips": 32744,
+		"common": 224
 	},
 	{
 		"name": "nt_malware_dns",
@@ -1244,7 +1244,7 @@
 	{
 		"name": "openbl_all",
 		"category": "attacks",
-		"ips": 118585,
+		"ips": 118596,
 		"common": 3345
 	},
 	{
@@ -1533,7 +1533,7 @@
 		"name": "shunlist",
 		"category": "attacks",
 		"ips": 500,
-		"common": 16
+		"common": 15
 	},
 	{
 		"name": "snort_ipfilter",
@@ -1542,9 +1542,15 @@
 		"common": 403
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 2
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1594,
+		"ips": 1596,
 		"common": 16
 	},
 	{
