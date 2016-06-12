@@ -74,19 +74,19 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4824,
-		"common": 4824
+		"ips": 4835,
+		"common": 4835
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 28630,
+		"ips": 28629,
 		"common": 6440
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 11932,
+		"ips": 11930,
 		"common": 6440
 	},
 	{
@@ -234,21 +234,27 @@
 		"common": 1
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 2
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 111872,
+		"ips": 110848,
 		"common": 16
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 2013952,
+		"ips": 2013696,
 		"common": 91
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 460032,
+		"ips": 458240,
 		"common": 27
 	},
 	{
@@ -285,7 +291,7 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 667232091,
-		"common": 11
+		"common": 13
 	},
 	{
 		"name": "firehol_level2",
@@ -441,7 +447,7 @@
 		"name": "iblocklist_isp_comcast",
 		"category": "organizations",
 		"ips": 45121536,
-		"common": 330
+		"common": 329
 	},
 	{
 		"name": "iblocklist_isp_embarq",
@@ -453,7 +459,7 @@
 		"name": "iblocklist_isp_qwest",
 		"category": "organizations",
 		"ips": 15777552,
-		"common": 50
+		"common": 51
 	},
 	{
 		"name": "iblocklist_isp_sprint",
@@ -495,7 +501,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 405
+		"common": 406
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -681,7 +687,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373408712,
-		"common": 1461
+		"common": 1459
 	},
 	{
 		"name": "sorbs_new_spam",
