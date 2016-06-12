@@ -56,38 +56,38 @@
 	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
-		"ips": 223,
-		"common": 220
+		"ips": 222,
+		"common": 219
 	},
 	{
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
 		"ips": 1440,
-		"common": 1138
+		"common": 1136
 	},
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
 		"ips": 482,
-		"common": 458
+		"common": 457
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4650,
-		"common": 4650
+		"ips": 4635,
+		"common": 4635
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 28547,
-		"common": 6253
+		"ips": 28544,
+		"common": 6239
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 11861,
-		"common": 6253
+		"ips": 11853,
+		"common": 6239
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
@@ -152,31 +152,31 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 175546,
+		"ips": 175481,
 		"common": 9
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 34229,
+		"ips": 34283,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 112030,
+		"ips": 112037,
 		"common": 4
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 22827,
+		"ips": 22873,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 104494,
+		"ips": 104361,
 		"common": 5
 	},
 	{
@@ -212,7 +212,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 239280,
+		"ips": 239279,
 		"common": 6
 	},
 	{
@@ -242,19 +242,19 @@
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 115968,
+		"ips": 114176,
 		"common": 16
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 2018816,
+		"ips": 2016256,
 		"common": 93
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 450304,
+		"ips": 450048,
 		"common": 29
 	},
 	{
@@ -284,13 +284,13 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 337312,
+		"ips": 337263,
 		"common": 17
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91536,
+		"ips": 91538,
 		"common": 120
 	},
 	{
@@ -302,32 +302,32 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 136413,
+		"ips": 134600,
 		"common": 16
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2175986,
+		"ips": 2173429,
 		"common": 111
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569487,
+		"ips": 9569484,
 		"common": 21
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34233,
+		"ips": 34235,
 		"common": 3
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 46077581,
-		"common": 998
+		"common": 996
 	},
 	{
 		"name": "fullbogons",
@@ -381,7 +381,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 273
+		"common": 272
 	},
 	{
 		"name": "iblocklist_cidr_report_bogons",
@@ -453,7 +453,7 @@
 		"name": "iblocklist_isp_comcast",
 		"category": "organizations",
 		"ips": 45121536,
-		"common": 325
+		"common": 327
 	},
 	{
 		"name": "iblocklist_isp_embarq",
@@ -483,7 +483,7 @@
 		"name": "iblocklist_isp_twc",
 		"category": "organizations",
 		"ips": 15015936,
-		"common": 77
+		"common": 76
 	},
 	{
 		"name": "iblocklist_isp_verizon",
@@ -507,7 +507,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 407
+		"common": 406
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -590,7 +590,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 27095,
+		"ips": 26432,
 		"common": 1
 	},
 	{
@@ -675,7 +675,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 45869192,
-		"common": 981
+		"common": 979
 	},
 	{
 		"name": "sblam",
@@ -699,7 +699,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373408712,
-		"common": 1417
+		"common": 1416
 	},
 	{
 		"name": "sorbs_noserver",
@@ -794,7 +794,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 98905,
+		"ips": 98906,
 		"common": 11
 	},
 	{
