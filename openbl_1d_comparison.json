@@ -86,7 +86,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 7617,
+		"ips": 7618,
 		"common": 29
 	},
 	{
@@ -236,7 +236,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2175095,
+		"ips": 2175094,
 		"common": 163
 	},
 	{
@@ -344,7 +344,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 30334,
+		"ips": 30736,
 		"common": 1
 	},
 	{
@@ -406,6 +406,12 @@
 		"category": "reputation",
 		"ips": 1286,
 		"common": 7
+	},
+	{
+		"name": "packetmail_mail",
+		"category": "reputation",
+		"ips": 167,
+		"common": 1
 	},
 	{
 		"name": "packetmail_ramnode",
