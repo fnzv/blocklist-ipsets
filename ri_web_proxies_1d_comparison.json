@@ -8,7 +8,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 910,
+		"ips": 905,
 		"common": 3
 	},
 	{
@@ -62,13 +62,13 @@
 	{
 		"name": "blueliv_crimeserver_last_30d",
 		"category": "attacks",
-		"ips": 34813,
+		"ips": 34799,
 		"common": 1
 	},
 	{
 		"name": "blueliv_crimeserver_last_7d",
 		"category": "attacks",
-		"ips": 16495,
+		"ips": 16483,
 		"common": 1
 	},
 	{
@@ -78,21 +78,27 @@
 		"common": 1
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 28,
+		"common": 3
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1497,
-		"common": 44
+		"ips": 1487,
+		"common": 43
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 19213,
+		"ips": 19214,
 		"common": 157
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5639,
+		"ips": 5621,
 		"common": 103
 	},
 	{
@@ -230,7 +236,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 15881,
+		"ips": 15872,
 		"common": 177
 	},
 	{
@@ -260,7 +266,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568729,
+		"ips": 9568730,
 		"common": 156
 	},
 	{
@@ -410,8 +416,8 @@
 	{
 		"name": "packetmail_mail",
 		"category": "reputation",
-		"ips": 185,
-		"common": 2
+		"ips": 182,
+		"common": 1
 	},
 	{
 		"name": "php_commenters",
