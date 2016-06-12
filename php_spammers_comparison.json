@@ -254,7 +254,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91843,
+		"ips": 91848,
 		"common": 16
 	},
 	{
@@ -284,7 +284,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34438,
+		"ips": 34443,
 		"common": 16
 	},
 	{
@@ -480,16 +480,28 @@
 		"common": 3
 	},
 	{
+		"name": "ri_web_proxies",
+		"category": "anonymizers",
+		"ips": 144,
+		"common": 1
+	},
+	{
+		"name": "ri_web_proxies_1d",
+		"category": "anonymizers",
+		"ips": 425,
+		"common": 1
+	},
+	{
 		"name": "ri_web_proxies_30d",
 		"category": "anonymizers",
-		"ips": 4191,
-		"common": 1
+		"ips": 4207,
+		"common": 2
 	},
 	{
 		"name": "ri_web_proxies_7d",
 		"category": "anonymizers",
-		"ips": 1440,
-		"common": 1
+		"ips": 1450,
+		"common": 2
 	},
 	{
 		"name": "sblam",
