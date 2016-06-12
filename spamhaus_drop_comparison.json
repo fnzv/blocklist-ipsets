@@ -360,6 +360,12 @@
 		"common": 2
 	},
 	{
+		"name": "dm_tor",
+		"category": "anonymizers",
+		"ips": 6907,
+		"common": 10
+	},
+	{
 		"name": "dragon_sshpauth",
 		"category": "attacks",
 		"ips": 333,
@@ -458,19 +464,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 15841,
-		"common": 562
+		"ips": 15857,
+		"common": 563
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 332685,
+		"ips": 332695,
 		"common": 5434
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91874,
+		"ips": 91914,
 		"common": 14
 	},
 	{
@@ -500,7 +506,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34483,
+		"ips": 34482,
 		"common": 5
 	},
 	{
@@ -762,6 +768,12 @@
 		"common": 3
 	},
 	{
+		"name": "nt_ssh_7d",
+		"category": "attacks",
+		"ips": 142,
+		"common": 1
+	},
+	{
 		"name": "nullsecure",
 		"category": "reputation",
 		"ips": 29439,
@@ -878,7 +890,7 @@
 	{
 		"name": "php_harvesters_30d",
 		"category": "spam",
-		"ips": 492,
+		"ips": 484,
 		"common": 5
 	},
 	{
@@ -890,20 +902,20 @@
 	{
 		"name": "php_spammers_1d",
 		"category": "spam",
-		"ips": 50,
-		"common": 1
+		"ips": 96,
+		"common": 2
 	},
 	{
 		"name": "php_spammers_30d",
 		"category": "spam",
-		"ips": 1149,
+		"ips": 1155,
 		"common": 50
 	},
 	{
 		"name": "php_spammers_7d",
 		"category": "spam",
-		"ips": 307,
-		"common": 2
+		"ips": 316,
+		"common": 3
 	},
 	{
 		"name": "proxyspy_30d",
