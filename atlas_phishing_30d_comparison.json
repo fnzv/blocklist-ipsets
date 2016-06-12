@@ -98,8 +98,8 @@
 	{
 		"name": "cleanmx_phishing",
 		"category": "spam",
-		"ips": 3269,
-		"common": 38
+		"ips": 4469,
+		"common": 40
 	},
 	{
 		"name": "cleanmx_viruses",
@@ -116,7 +116,7 @@
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 2013184,
+		"ips": 2012928,
 		"common": 2
 	},
 	{
@@ -140,7 +140,7 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 333094,
+		"ips": 333080,
 		"common": 1
 	},
 	{
@@ -324,9 +324,15 @@
 		"common": 2
 	},
 	{
+		"name": "sorbs_new_spam",
+		"category": "spam",
+		"ips": 48918,
+		"common": 1
+	},
+	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
-		"ips": 1123504,
+		"ips": 1123229,
 		"common": 3
 	},
 	{
