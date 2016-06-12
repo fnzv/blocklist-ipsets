@@ -158,25 +158,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 4710,
+		"ips": 4715,
 		"common": 168
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6268,
+		"ips": 6278,
 		"common": 175
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 28549,
+		"ips": 28557,
 		"common": 229
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 11878,
+		"ips": 11883,
 		"common": 188
 	},
 	{
@@ -284,8 +284,8 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6877,
-		"common": 350
+		"ips": 6889,
+		"common": 351
 	},
 	{
 		"name": "botscout_1d",
@@ -458,7 +458,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6885,
+		"ips": 6908,
 		"common": 351
 	},
 	{
@@ -596,19 +596,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 16431,
-		"common": 483
+		"ips": 16397,
+		"common": 484
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 336860,
-		"common": 9168
+		"ips": 336862,
+		"common": 9169
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91737,
+		"ips": 91759,
 		"common": 475
 	},
 	{
@@ -1080,10 +1080,28 @@
 		"common": 7
 	},
 	{
+		"name": "php_dictionary",
+		"category": "spam",
+		"ips": 50,
+		"common": 1
+	},
+	{
+		"name": "php_dictionary_1d",
+		"category": "spam",
+		"ips": 50,
+		"common": 1
+	},
+	{
 		"name": "php_dictionary_30d",
 		"category": "spam",
-		"ips": 1140,
-		"common": 2
+		"ips": 1142,
+		"common": 3
+	},
+	{
+		"name": "php_dictionary_7d",
+		"category": "spam",
+		"ips": 307,
+		"common": 1
 	},
 	{
 		"name": "php_harvesters",
