@@ -134,7 +134,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 8175,
+		"ips": 8173,
 		"common": 108
 	},
 	{
@@ -452,7 +452,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569471,
+		"ips": 9569469,
 		"common": 229
 	},
 	{
@@ -680,8 +680,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 25801,
-		"common": 47
+		"ips": 25405,
+		"common": 44
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -864,10 +864,28 @@
 		"common": 18
 	},
 	{
+		"name": "proxyrss",
+		"category": "anonymizers",
+		"ips": 1091,
+		"common": 1
+	},
+	{
+		"name": "proxyrss_1d",
+		"category": "anonymizers",
+		"ips": 2202,
+		"common": 1
+	},
+	{
 		"name": "proxyrss_30d",
 		"category": "anonymizers",
-		"ips": 8951,
+		"ips": 8954,
 		"common": 2
+	},
+	{
+		"name": "proxyrss_7d",
+		"category": "anonymizers",
+		"ips": 4775,
+		"common": 1
 	},
 	{
 		"name": "proxyspy_30d",
