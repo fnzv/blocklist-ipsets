@@ -33,7 +33,7 @@
 		"name": "bbcan177_ms1",
 		"category": "malware",
 		"ips": 5266554,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "bbcan177_ms3",
@@ -57,13 +57,13 @@
 		"name": "blueliv_crimeserver_last_30d",
 		"category": "attacks",
 		"ips": 34813,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "blueliv_crimeserver_online",
 		"category": "attacks",
 		"ips": 53860,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "cleantalk_30d",
@@ -99,19 +99,19 @@
 		"name": "dshield_1d",
 		"category": "attacks",
 		"ips": 110080,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 2012416,
-		"common": 21
+		"common": 23
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 458240,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "dshield_top_1000",
@@ -147,13 +147,13 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 129697,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 2166930,
-		"common": 21
+		"common": 23
 	},
 	{
 		"name": "firehol_level4",
@@ -165,7 +165,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 46077665,
-		"common": 156
+		"common": 160
 	},
 	{
 		"name": "gofferje_sip",
@@ -189,7 +189,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 21
+		"common": 24
 	},
 	{
 		"name": "iblocklist_cruzit_web_attacks",
@@ -201,7 +201,7 @@
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227983648,
-		"common": 9
+		"common": 11
 	},
 	{
 		"name": "iblocklist_exclusions",
@@ -225,7 +225,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762822833,
-		"common": 30
+		"common": 33
 	},
 	{
 		"name": "iblocklist_level2",
@@ -237,7 +237,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 73
+		"common": 74
 	},
 	{
 		"name": "iblocklist_org_microsoft",
@@ -249,7 +249,7 @@
 		"name": "iblocklist_rangetest",
 		"category": "reputation",
 		"ips": 4346058,
-		"common": 25
+		"common": 26
 	},
 	{
 		"name": "iblocklist_spamhaus_drop",
@@ -267,7 +267,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 202
+		"common": 216
 	},
 	{
 		"name": "nullsecure",
@@ -291,13 +291,13 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 45869192,
-		"common": 147
+		"common": 151
 	},
 	{
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373408712,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "spamhaus_drop",
@@ -345,6 +345,6 @@
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 8642,
-		"common": 209
+		"common": 219
 	}
 ]
