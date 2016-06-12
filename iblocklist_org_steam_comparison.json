@@ -122,7 +122,7 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 337154,
+		"ips": 337201,
 		"common": 4
 	},
 	{
@@ -140,7 +140,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9562632,
+		"ips": 9569473,
 		"common": 6
 	},
 	{
@@ -282,6 +282,12 @@
 		"common": 1
 	},
 	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 26036,
+		"common": 1
+	},
+	{
 		"name": "openbl_all",
 		"category": "attacks",
 		"ips": 118572,
@@ -328,6 +334,12 @@
 		"category": "spam",
 		"ips": 5997077,
 		"common": 108
+	},
+	{
+		"name": "sp_anti_infringement",
+		"category": "organizations",
+		"ips": 136185247,
+		"common": 8
 	},
 	{
 		"name": "sp_atma",

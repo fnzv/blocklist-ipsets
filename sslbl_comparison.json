@@ -30,6 +30,12 @@
 		"common": 2
 	},
 	{
+		"name": "cleanmx_viruses",
+		"category": "spam",
+		"ips": 9584,
+		"common": 1
+	},
+	{
 		"name": "dragon_http",
 		"category": "attacks",
 		"ips": 59136,
@@ -82,6 +88,12 @@
 		"category": "attacks",
 		"ips": 2175431,
 		"common": 88
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9569473,
+		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
@@ -212,8 +224,8 @@
 	{
 		"name": "sp_anti_infringement",
 		"category": "organizations",
-		"ips": 18234404,
-		"common": 1
+		"ips": 136185247,
+		"common": 2
 	},
 	{
 		"name": "sslbl_aggressive",
@@ -224,7 +236,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 98977,
+		"ips": 98705,
 		"common": 15
 	}
 ]

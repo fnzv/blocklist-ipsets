@@ -98,7 +98,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 8181,
+		"ips": 8178,
 		"common": 28
 	},
 	{
@@ -158,8 +158,8 @@
 	{
 		"name": "cleanmx_viruses",
 		"category": "spam",
-		"ips": 2603,
-		"common": 33
+		"ips": 9584,
+		"common": 95
 	},
 	{
 		"name": "cleantalk_30d",
@@ -272,7 +272,7 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 337154,
+		"ips": 337201,
 		"common": 6
 	},
 	{
@@ -296,8 +296,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9562632,
-		"common": 83
+		"ips": 9569473,
+		"common": 139
 	},
 	{
 		"name": "firehol_webserver",
@@ -570,6 +570,12 @@
 		"common": 12
 	},
 	{
+		"name": "sp_anti_infringement",
+		"category": "organizations",
+		"ips": 136185247,
+		"common": 16
+	},
+	{
 		"name": "stopforumspam",
 		"category": "abuse",
 		"ips": 177771,
@@ -608,7 +614,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 98977,
+		"ips": 98705,
 		"common": 1
 	},
 	{

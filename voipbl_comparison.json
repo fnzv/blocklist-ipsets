@@ -56,8 +56,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 882,
-		"common": 19
+		"ips": 889,
+		"common": 21
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -164,7 +164,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 8181,
+		"ips": 8178,
 		"common": 3
 	},
 	{
@@ -218,13 +218,13 @@
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 19108,
+		"ips": 19123,
 		"common": 13
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5626,
+		"ips": 5629,
 		"common": 3
 	},
 	{
@@ -267,6 +267,12 @@
 		"name": "cidr_report_bogons",
 		"category": "unroutable",
 		"ips": 604561992,
+		"common": 3
+	},
+	{
+		"name": "cleanmx_viruses",
+		"category": "spam",
+		"ips": 9584,
 		"common": 3
 	},
 	{
@@ -458,13 +464,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 16403,
+		"ips": 16402,
 		"common": 9
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 337154,
+		"ips": 337201,
 		"common": 106
 	},
 	{
@@ -494,8 +500,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9562632,
-		"common": 113
+		"ips": 9569473,
+		"common": 116
 	},
 	{
 		"name": "firehol_webserver",
@@ -800,7 +806,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 26037,
+		"ips": 26036,
 		"common": 1
 	},
 	{
@@ -926,7 +932,7 @@
 	{
 		"name": "sblam",
 		"category": "abuse",
-		"ips": 7182,
+		"ips": 7188,
 		"common": 4
 	},
 	{
@@ -986,8 +992,8 @@
 	{
 		"name": "sp_anti_infringement",
 		"category": "organizations",
-		"ips": 18234404,
-		"common": 12
+		"ips": 136185247,
+		"common": 92
 	},
 	{
 		"name": "spamhaus_drop",
@@ -1052,8 +1058,8 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 98977,
-		"common": 32
+		"ips": 98705,
+		"common": 31
 	},
 	{
 		"name": "threatcrowd",

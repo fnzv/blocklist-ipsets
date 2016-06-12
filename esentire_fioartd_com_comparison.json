@@ -36,6 +36,12 @@
 		"common": 2
 	},
 	{
+		"name": "cleanmx_viruses",
+		"category": "spam",
+		"ips": 9584,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 175367,
@@ -218,7 +224,7 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 337154,
+		"ips": 337201,
 		"common": 4
 	},
 	{
@@ -236,8 +242,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9562632,
-		"common": 1
+		"ips": 9569473,
+		"common": 2
 	},
 	{
 		"name": "firehol_webserver",
@@ -364,6 +370,12 @@
 		"category": "spam",
 		"ips": 5997077,
 		"common": 10
+	},
+	{
+		"name": "sp_anti_infringement",
+		"category": "organizations",
+		"ips": 136185247,
+		"common": 1
 	},
 	{
 		"name": "sslbl_aggressive",
