@@ -324,21 +324,27 @@
 		"common": 1
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 4
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 107776,
+		"ips": 110848,
 		"common": 49
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 2014976,
+		"ips": 2012928,
 		"common": 364
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 457728,
+		"ips": 457216,
 		"common": 118
 	},
 	{
@@ -392,14 +398,14 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91945,
+		"ips": 91946,
 		"common": 3
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 667231833,
-		"common": 6
+		"ips": 667232089,
+		"common": 10
 	},
 	{
 		"name": "firehol_level2",
@@ -422,7 +428,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34479,
+		"ips": 34476,
 		"common": 2
 	},
 	{
