@@ -194,7 +194,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 7360,
+		"ips": 7356,
 		"common": 10
 	},
 	{
@@ -620,14 +620,20 @@
 	{
 		"name": "et_block",
 		"category": "attacks",
-		"ips": 22911800,
-		"common": 66
+		"ips": 22842678,
+		"common": 68
+	},
+	{
+		"name": "et_dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 3
 	},
 	{
 		"name": "et_spamhaus",
 		"category": "attacks",
-		"ips": 22905856,
-		"common": 22
+		"ips": 22836736,
+		"common": 21
 	},
 	{
 		"name": "et_tor",
@@ -668,7 +674,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 127183,
+		"ips": 129261,
 		"common": 40
 	},
 	{
@@ -680,7 +686,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568605,
+		"ips": 9568602,
 		"common": 168
 	},
 	{

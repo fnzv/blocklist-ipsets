@@ -194,7 +194,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 7360,
+		"ips": 7356,
 		"common": 16
 	},
 	{
@@ -444,10 +444,22 @@
 		"common": 14
 	},
 	{
+		"name": "et_block",
+		"category": "attacks",
+		"ips": 22842678,
+		"common": 512
+	},
+	{
 		"name": "et_compromised",
 		"category": "attacks",
 		"ips": 1151,
 		"common": 5
+	},
+	{
+		"name": "et_dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 512
 	},
 	{
 		"name": "et_tor",
@@ -482,7 +494,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 127183,
+		"ips": 129261,
 		"common": 3849
 	},
 	{
@@ -494,7 +506,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568605,
+		"ips": 9568602,
 		"common": 128
 	},
 	{
@@ -764,7 +776,7 @@
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 165,
+		"ips": 162,
 		"common": 1
 	},
 	{
