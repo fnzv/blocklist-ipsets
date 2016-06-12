@@ -254,7 +254,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 7404,
+		"ips": 7407,
 		"common": 257
 	},
 	{
@@ -386,50 +386,50 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 4343,
-		"common": 337
+		"ips": 4341,
+		"common": 339
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 10090,
-		"common": 826
+		"ips": 10102,
+		"common": 828
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 172714,
-		"common": 17937
+		"ips": 172667,
+		"common": 17934
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 34071,
-		"common": 3111
+		"ips": 34075,
+		"common": 3113
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 2343,
-		"common": 294
+		"ips": 2341,
+		"common": 296
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 5199,
-		"common": 661
+		"ips": 5202,
+		"common": 665
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 111498,
-		"common": 13098
+		"ips": 111493,
+		"common": 13096
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 22700,
-		"common": 2628
+		"ips": 22708,
+		"common": 2630
 	},
 	{
 		"name": "cleantalk_updated",
@@ -440,19 +440,19 @@
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 5909,
-		"common": 177
+		"ips": 5922,
+		"common": 175
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 100169,
-		"common": 6812
+		"ips": 100101,
+		"common": 6807
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 15634,
+		"ips": 15632,
 		"common": 541
 	},
 	{
@@ -512,7 +512,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 303329,
+		"ips": 303328,
 		"common": 49717
 	},
 	{
@@ -552,22 +552,28 @@
 		"common": 69532
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 256
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 111360,
-		"common": 4608
+		"ips": 112640,
+		"common": 4864
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 2013184,
-		"common": 185263
+		"common": 185519
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 458496,
-		"common": 38838
+		"ips": 459776,
+		"common": 39094
 	},
 	{
 		"name": "dshield_top_1000",
@@ -764,26 +770,26 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 15742,
-		"common": 1167
+		"ips": 15752,
+		"common": 1169
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 333133,
+		"ips": 333094,
 		"common": 36622
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91884,
-		"common": 13716
+		"ips": 91901,
+		"common": 13728
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 667232094,
-		"common": 109807
+		"ips": 667232095,
+		"common": 110063
 	},
 	{
 		"name": "firehol_level2",
@@ -800,14 +806,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568746,
+		"ips": 9568749,
 		"common": 23152
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34465,
-		"common": 10561
+		"ips": 34482,
+		"common": 10573
 	},
 	{
 		"name": "firehol_webserver",
@@ -1647,12 +1653,12 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 14
+		"common": 6
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1575,
+		"ips": 1571,
 		"common": 216
 	},
 	{
@@ -1761,25 +1767,25 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 25
+		"common": 29
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 766,
-		"common": 414
+		"ips": 786,
+		"common": 428
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 14533,
-		"common": 8716
+		"ips": 14550,
+		"common": 8728
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 3646,
-		"common": 2117
+		"ips": 3666,
+		"common": 2131
 	},
 	{
 		"name": "stopforumspam",
