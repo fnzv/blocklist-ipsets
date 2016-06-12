@@ -62,13 +62,13 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 28621,
+		"ips": 28617,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 11914,
+		"ips": 11907,
 		"common": 1
 	},
 	{
@@ -104,7 +104,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 7893,
+		"ips": 7855,
 		"common": 7
 	},
 	{
@@ -248,7 +248,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6986,
+		"ips": 6990,
 		"common": 3
 	},
 	{
@@ -326,7 +326,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91912,
+		"ips": 91979,
 		"common": 8111
 	},
 	{
@@ -338,13 +338,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2167188,
+		"ips": 2165653,
 		"common": 543
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569208,
+		"ips": 9569170,
 		"common": 171
 	},
 	{
@@ -406,6 +406,12 @@
 		"category": "unroutable",
 		"ips": 666661539,
 		"common": 567
+	},
+	{
+		"name": "iblocklist_ciarmy_malicious",
+		"category": "reputation",
+		"ips": 927,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_edu",
@@ -584,8 +590,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 32744,
-		"common": 901
+		"ips": 33281,
+		"common": 909
 	},
 	{
 		"name": "nullsecure",
@@ -710,25 +716,25 @@
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
-		"ips": 1283,
-		"common": 95
+		"ips": 1282,
+		"common": 96
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 2320,
-		"common": 124
+		"ips": 2300,
+		"common": 123
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 9244,
+		"ips": 9235,
 		"common": 251
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 5059,
+		"ips": 5062,
 		"common": 184
 	},
 	{
@@ -780,27 +786,21 @@
 		"common": 13
 	},
 	{
-		"name": "proxz",
-		"category": "anonymizers",
-		"ips": 25,
-		"common": 1
-	},
-	{
 		"name": "proxz_1d",
 		"category": "anonymizers",
-		"ips": 256,
+		"ips": 265,
 		"common": 3
 	},
 	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
-		"ips": 2372,
+		"ips": 2371,
 		"common": 21
 	},
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
-		"ips": 874,
+		"ips": 882,
 		"common": 5
 	},
 	{
@@ -998,8 +998,8 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 95685,
-		"common": 436
+		"ips": 94784,
+		"common": 433
 	},
 	{
 		"name": "tor_exits",
