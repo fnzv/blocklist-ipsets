@@ -242,7 +242,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 7567,
+		"ips": 7562,
 		"common": 102
 	},
 	{
@@ -290,13 +290,13 @@
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 19145,
+		"ips": 19147,
 		"common": 4
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5627,
+		"ips": 5622,
 		"common": 1
 	},
 	{
@@ -596,7 +596,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 127473,
+		"ips": 130541,
 		"common": 46
 	},
 	{
@@ -608,7 +608,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568836,
+		"ips": 9568834,
 		"common": 1604
 	},
 	{
@@ -1020,6 +1020,12 @@
 		"common": 14
 	},
 	{
+		"name": "openbl_1d",
+		"category": "attacks",
+		"ips": 168,
+		"common": 1
+	},
+	{
 		"name": "openbl_30d",
 		"category": "attacks",
 		"ips": 2083,
@@ -1173,7 +1179,7 @@
 		"name": "ransomware_feed",
 		"category": "malware",
 		"ips": 863,
-		"common": 72
+		"common": 71
 	},
 	{
 		"name": "ransomware_locky_c2",
