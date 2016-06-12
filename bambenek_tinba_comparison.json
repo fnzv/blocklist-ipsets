@@ -30,10 +30,16 @@
 		"common": 1
 	},
 	{
+		"name": "bambenek_bebloh",
+		"category": "malware",
+		"ips": 1,
+		"common": 1
+	},
+	{
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 251,
-		"common": 11
+		"common": 12
 	},
 	{
 		"name": "bambenek_matsnu",
@@ -51,6 +57,12 @@
 		"name": "bambenek_simda",
 		"category": "malware",
 		"ips": 121,
+		"common": 1
+	},
+	{
+		"name": "bambenek_suppobox",
+		"category": "malware",
+		"ips": 61,
 		"common": 1
 	},
 	{
@@ -81,7 +93,7 @@
 		"name": "blueliv_crimeserver_online",
 		"category": "attacks",
 		"ips": 53783,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "cleanmx_viruses",
@@ -96,10 +108,22 @@
 		"common": 1
 	},
 	{
+		"name": "et_block",
+		"category": "attacks",
+		"ips": 22911800,
+		"common": 1
+	},
+	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 667232089,
-		"common": 11
+		"common": 12
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 2176831,
+		"common": 1
 	},
 	{
 		"name": "firehol_level4",
@@ -111,25 +135,25 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 46077581,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "hphosts_ats",
 		"category": "organizations",
 		"ips": 16050,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 18443,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "hphosts_fsa",
 		"category": "reputation",
 		"ips": 8951,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "hphosts_grm",
@@ -159,13 +183,13 @@
 		"name": "hphosts_psh",
 		"category": "reputation",
 		"ips": 11377,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "hphosts_wrz",
 		"category": "reputation",
 		"ips": 834,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "iblocklist_ads",
@@ -207,7 +231,7 @@
 		"name": "jigsaw_attacks",
 		"category": "attacks",
 		"ips": 27109,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "jigsaw_malware",
@@ -219,7 +243,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 45869192,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "sp_atma",
@@ -238,5 +262,11 @@
 		"category": "organizations",
 		"ips": 13086,
 		"common": 3
+	},
+	{
+		"name": "zeus",
+		"category": "malware",
+		"ips": 163,
+		"common": 1
 	}
 ]
