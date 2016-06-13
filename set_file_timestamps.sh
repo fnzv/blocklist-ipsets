@@ -1077,7 +1077,7 @@
 [ -f 'proxz_7d.ipset' ] && /bin/touch --date=@1465807265 'proxz_7d.ipset'
 [ -f 'pushing_inertia_blocklist.netset' ] && /bin/touch --date=@1465563378 'pushing_inertia_blocklist.netset'
 [ -f 'ransomware_cryptowall_ps.ipset' ] && /bin/touch --date=@1458596101 'ransomware_cryptowall_ps.ipset'
-[ -f 'ransomware_feed.ipset' ] && /bin/touch --date=@1465810328 'ransomware_feed.ipset'
+[ -f 'ransomware_feed.ipset' ] && /bin/touch --date=@1465810806 'ransomware_feed.ipset'
 [ -f 'ransomware_locky_c2.ipset' ] && /bin/touch --date=@1464929702 'ransomware_locky_c2.ipset'
 [ -f 'ransomware_locky_ps.ipset' ] && /bin/touch --date=@1459036801 'ransomware_locky_ps.ipset'
 [ -f 'ransomware_rw.ipset' ] && /bin/touch --date=@1465776002 'ransomware_rw.ipset'
