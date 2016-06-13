@@ -80,7 +80,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 7349,
+		"ips": 7351,
 		"common": 9
 	},
 	{
@@ -96,22 +96,28 @@
 		"common": 1
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 51,
+		"common": 2
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1457,
-		"common": 46
+		"ips": 1453,
+		"common": 48
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 19254,
-		"common": 401
+		"ips": 19258,
+		"common": 402
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5618,
-		"common": 161
+		"ips": 5619,
+		"common": 162
 	},
 	{
 		"name": "cleantalk",
@@ -284,8 +290,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 15709,
-		"common": 159
+		"ips": 15707,
+		"common": 160
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -296,7 +302,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91910,
+		"ips": 91911,
 		"common": 14532
 	},
 	{
@@ -320,13 +326,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568598,
-		"common": 401
+		"ips": 9568610,
+		"common": 402
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34480,
+		"ips": 34481,
 		"common": 14536
 	},
 	{
@@ -909,13 +915,13 @@
 		"name": "xroxy",
 		"category": "anonymizers",
 		"ips": 56,
-		"common": 5
+		"common": 9
 	},
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 128,
-		"common": 13
+		"ips": 132,
+		"common": 16
 	},
 	{
 		"name": "xroxy_30d",
@@ -926,7 +932,7 @@
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 295,
+		"ips": 296,
 		"common": 37
 	}
 ]
