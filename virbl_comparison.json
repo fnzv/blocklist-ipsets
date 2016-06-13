@@ -12,10 +12,16 @@
 		"common": 2
 	},
 	{
+		"name": "dronebl_auto_botnets",
+		"category": "reputation",
+		"ips": 303344,
+		"common": 1
+	},
+	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 119902,
-		"common": 13
+		"ips": 121180,
+		"common": 16
 	},
 	{
 		"name": "firehol_webserver",
@@ -24,10 +30,22 @@
 		"common": 1
 	},
 	{
+		"name": "iblocklist_edu",
+		"category": "organizations",
+		"ips": 227983648,
+		"common": 2
+	},
+	{
 		"name": "nixspam",
 		"category": "spam",
 		"ips": 37254,
 		"common": 2
+	},
+	{
+		"name": "nullsecure",
+		"category": "reputation",
+		"ips": 29439,
+		"common": 1
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -45,12 +63,6 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 1123294,
-		"common": 1
-	},
-	{
-		"name": "sorbs_web",
-		"category": "spam",
-		"ips": 5997718,
 		"common": 1
 	},
 	{
