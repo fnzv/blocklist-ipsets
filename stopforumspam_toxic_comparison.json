@@ -140,19 +140,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 18525,
-		"common": 3402
+		"ips": 18463,
+		"common": 3401
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9935,
+		"ips": 9933,
 		"common": 3336
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 524,
+		"ips": 518,
 		"common": 49
 	},
 	{
@@ -162,16 +162,10 @@
 		"common": 6
 	},
 	{
-		"name": "blocklist_de_imap",
-		"category": "attacks",
-		"ips": 883,
-		"common": 1
-	},
-	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 15188,
-		"common": 3338
+		"ips": 15137,
+		"common": 3337
 	},
 	{
 		"name": "blocklist_de_sip",
@@ -182,7 +176,7 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1660,
+		"ips": 1664,
 		"common": 29
 	},
 	{
@@ -314,8 +308,8 @@
 	{
 		"name": "cleanmx_viruses",
 		"category": "spam",
-		"ips": 9519,
-		"common": 19
+		"ips": 8591,
+		"common": 16
 	},
 	{
 		"name": "cleantalk",
@@ -560,7 +554,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 128139,
+		"ips": 125520,
 		"common": 3636
 	},
 	{
@@ -572,8 +566,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568691,
-		"common": 2825
+		"ips": 9567779,
+		"common": 2822
 	},
 	{
 		"name": "firehol_proxies",
@@ -1176,9 +1170,15 @@
 		"common": 23
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 2
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1452,
+		"ips": 1455,
 		"common": 3
 	},
 	{
@@ -1190,7 +1190,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 3626,
+		"ips": 3628,
 		"common": 6
 	},
 	{
