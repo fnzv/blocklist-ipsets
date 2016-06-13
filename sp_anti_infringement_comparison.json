@@ -230,7 +230,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 7351,
+		"ips": 7342,
 		"common": 230
 	},
 	{
@@ -770,7 +770,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568610,
+		"ips": 9568601,
 		"common": 29433
 	},
 	{
@@ -1190,8 +1190,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 27986,
-		"common": 1392
+		"ips": 27936,
+		"common": 1398
 	},
 	{
 		"name": "nt_malware_dns",
@@ -1400,26 +1400,26 @@
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
-		"ips": 1231,
-		"common": 133
+		"ips": 1253,
+		"common": 137
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 2405,
-		"common": 238
+		"ips": 2378,
+		"common": 236
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 9229,
-		"common": 1236
+		"ips": 9254,
+		"common": 1242
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 5037,
-		"common": 504
+		"ips": 5040,
+		"common": 507
 	},
 	{
 		"name": "proxyrss",
@@ -1470,22 +1470,28 @@
 		"common": 190
 	},
 	{
+		"name": "proxz",
+		"category": "anonymizers",
+		"ips": 24,
+		"common": 1
+	},
+	{
 		"name": "proxz_1d",
 		"category": "anonymizers",
-		"ips": 272,
+		"ips": 276,
 		"common": 18
 	},
 	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
-		"ips": 2369,
-		"common": 262
+		"ips": 2376,
+		"common": 263
 	},
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
-		"ips": 897,
-		"common": 85
+		"ips": 896,
+		"common": 81
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -1496,7 +1502,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 861,
+		"ips": 862,
 		"common": 1
 	},
 	{
@@ -1538,26 +1544,26 @@
 	{
 		"name": "ri_web_proxies",
 		"category": "anonymizers",
-		"ips": 143,
-		"common": 11
+		"ips": 145,
+		"common": 13
 	},
 	{
 		"name": "ri_web_proxies_1d",
 		"category": "anonymizers",
-		"ips": 407,
-		"common": 32
+		"ips": 452,
+		"common": 39
 	},
 	{
 		"name": "ri_web_proxies_30d",
 		"category": "anonymizers",
-		"ips": 4175,
-		"common": 368
+		"ips": 4214,
+		"common": 373
 	},
 	{
 		"name": "ri_web_proxies_7d",
 		"category": "anonymizers",
-		"ips": 1394,
-		"common": 111
+		"ips": 1408,
+		"common": 112
 	},
 	{
 		"name": "sblam",
@@ -1766,8 +1772,8 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 94094,
-		"common": 9204
+		"ips": 93750,
+		"common": 9157
 	},
 	{
 		"name": "threatcrowd",
