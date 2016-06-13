@@ -62,7 +62,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 7334,
+		"ips": 7329,
 		"common": 60
 	},
 	{
@@ -74,26 +74,26 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 48,
+		"ips": 34,
 		"common": 2
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1446,
-		"common": 88
+		"ips": 1439,
+		"common": 89
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
 		"ips": 19256,
-		"common": 132
+		"common": 133
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 5637,
-		"common": 124
+		"ips": 5631,
+		"common": 125
 	},
 	{
 		"name": "cleantalk",
@@ -180,22 +180,28 @@
 		"common": 3
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 2
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 108288,
-		"common": 10
+		"ips": 107520,
+		"common": 12
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 2004992,
-		"common": 41
+		"common": 43
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 464128,
-		"common": 21
+		"ips": 464896,
+		"common": 23
 	},
 	{
 		"name": "esentire_volaya_ru",
@@ -224,7 +230,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 15788,
+		"ips": 15790,
 		"common": 5023
 	},
 	{
@@ -242,26 +248,26 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 667232239,
-		"common": 99
+		"ips": 667232240,
+		"common": 101
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 127609,
-		"common": 165
+		"ips": 126847,
+		"common": 167
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2154894,
-		"common": 115
+		"ips": 2154890,
+		"common": 116
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568605,
-		"common": 205
+		"ips": 9568600,
+		"common": 206
 	},
 	{
 		"name": "firehol_proxies",
@@ -458,7 +464,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 30051,
+		"ips": 30234,
 		"common": 22
 	},
 	{
