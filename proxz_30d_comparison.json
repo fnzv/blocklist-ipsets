@@ -92,7 +92,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 6863,
+		"ips": 6860,
 		"common": 36
 	},
 	{
@@ -228,6 +228,12 @@
 		"common": 13
 	},
 	{
+		"name": "dm_tor",
+		"category": "anonymizers",
+		"ips": 6867,
+		"common": 1
+	},
+	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
 		"ips": 239539,
@@ -302,7 +308,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91891,
+		"ips": 91929,
 		"common": 2376
 	},
 	{
@@ -356,7 +362,7 @@
 	{
 		"name": "haley_ssh",
 		"category": "attacks",
-		"ips": 21270,
+		"ips": 21272,
 		"common": 1
 	},
 	{
@@ -560,7 +566,7 @@
 	{
 		"name": "openbl_all",
 		"category": "attacks",
-		"ips": 118640,
+		"ips": 118642,
 		"common": 7
 	},
 	{
@@ -980,8 +986,8 @@
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 122,
-		"common": 73
+		"ips": 117,
+		"common": 71
 	},
 	{
 		"name": "xroxy_30d",
@@ -992,7 +998,7 @@
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 280,
-		"common": 166
+		"ips": 278,
+		"common": 164
 	}
 ]
