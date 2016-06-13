@@ -320,7 +320,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 7313,
+		"ips": 7312,
 		"common": 692
 	},
 	{
@@ -368,8 +368,8 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6860,
-		"common": 519
+		"ips": 6854,
+		"common": 515
 	},
 	{
 		"name": "bogons",
@@ -560,8 +560,8 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 5840,
-		"common": 441
+		"ips": 6887,
+		"common": 522
 	},
 	{
 		"name": "dragon_http",
@@ -878,8 +878,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91881,
-		"common": 2225
+		"ips": 91894,
+		"common": 2227
 	},
 	{
 		"name": "firehol_level1",
@@ -902,7 +902,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568699,
+		"ips": 9568697,
 		"common": 161418
 	},
 	{
@@ -1442,7 +1442,7 @@
 	{
 		"name": "openbl_all",
 		"category": "attacks",
-		"ips": 118609,
+		"ips": 118615,
 		"common": 9121
 	},
 	{
@@ -1646,25 +1646,25 @@
 	{
 		"name": "proxz",
 		"category": "anonymizers",
-		"ips": 27,
-		"common": 3
+		"ips": 25,
+		"common": 2
 	},
 	{
 		"name": "proxz_1d",
 		"category": "anonymizers",
-		"ips": 270,
-		"common": 18
+		"ips": 271,
+		"common": 19
 	},
 	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
-		"ips": 2383,
+		"ips": 2382,
 		"common": 183
 	},
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
-		"ips": 896,
+		"ips": 901,
 		"common": 67
 	},
 	{
@@ -2034,10 +2034,16 @@
 		"common": 9
 	},
 	{
+		"name": "xroxy",
+		"category": "anonymizers",
+		"ips": 60,
+		"common": 1
+	},
+	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
 		"ips": 119,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "xroxy_30d",
@@ -2049,7 +2055,7 @@
 		"name": "xroxy_7d",
 		"category": "anonymizers",
 		"ips": 292,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "yoyo_adservers",
