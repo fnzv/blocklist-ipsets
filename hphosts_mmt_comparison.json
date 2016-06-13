@@ -174,6 +174,12 @@
 		"common": 1
 	},
 	{
+		"name": "cleanmx_phishing",
+		"category": "spam",
+		"ips": 4543,
+		"common": 36
+	},
+	{
 		"name": "cleanmx_viruses",
 		"category": "spam",
 		"ips": 9390,
@@ -194,7 +200,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 303325,
+		"ips": 303324,
 		"common": 2
 	},
 	{
@@ -230,13 +236,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 15791,
+		"ips": 15804,
 		"common": 1
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 332170,
+		"ips": 332192,
 		"common": 2
 	},
 	{
@@ -248,7 +254,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2162192,
+		"ips": 2162416,
 		"common": 12
 	},
 	{
@@ -500,7 +506,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 863,
+		"ips": 862,
 		"common": 6
 	},
 	{
@@ -602,7 +608,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 93501,
+		"ips": 93741,
 		"common": 6
 	},
 	{
