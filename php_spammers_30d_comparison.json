@@ -74,7 +74,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 7220,
+		"ips": 7169,
 		"common": 9
 	},
 	{
@@ -112,6 +112,12 @@
 		"category": "abuse",
 		"ips": 5591,
 		"common": 53
+	},
+	{
+		"name": "cleanmx_phishing",
+		"category": "spam",
+		"ips": 4618,
+		"common": 1
 	},
 	{
 		"name": "cleantalk",
@@ -308,19 +314,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 119426,
+		"ips": 119427,
 		"common": 210
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2146158,
-		"common": 126
+		"ips": 2139966,
+		"common": 116
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568566,
+		"ips": 9568515,
 		"common": 114
 	},
 	{
@@ -542,8 +548,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 37496,
-		"common": 193
+		"ips": 37502,
+		"common": 194
 	},
 	{
 		"name": "openbl_180d",
@@ -968,8 +974,8 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 93261,
-		"common": 85
+		"ips": 92781,
+		"common": 84
 	},
 	{
 		"name": "tor_exits",

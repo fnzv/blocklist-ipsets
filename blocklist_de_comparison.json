@@ -188,7 +188,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 7220,
+		"ips": 7169,
 		"common": 541
 	},
 	{
@@ -262,6 +262,12 @@
 		"category": "reputation",
 		"ips": 964,
 		"common": 30
+	},
+	{
+		"name": "cleanmx_phishing",
+		"category": "spam",
+		"ips": 4618,
+		"common": 1
 	},
 	{
 		"name": "cleanmx_viruses",
@@ -566,19 +572,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 119426,
+		"ips": 119427,
 		"common": 18484
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2146158,
-		"common": 1407
+		"ips": 2139966,
+		"common": 1356
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568566,
+		"ips": 9568515,
 		"common": 1078
 	},
 	{
@@ -944,8 +950,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 37496,
-		"common": 1235
+		"ips": 37502,
+		"common": 1217
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1238,7 +1244,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 860,
+		"ips": 861,
 		"common": 1
 	},
 	{
@@ -1490,8 +1496,8 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 93261,
-		"common": 317
+		"ips": 92781,
+		"common": 312
 	},
 	{
 		"name": "threatcrowd",
@@ -1538,7 +1544,7 @@
 	{
 		"name": "virbl",
 		"category": "spam",
-		"ips": 18,
+		"ips": 19,
 		"common": 2
 	},
 	{
