@@ -321,7 +321,7 @@
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 6896,
-		"common": 363
+		"common": 362
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -368,8 +368,8 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6956,
-		"common": 1101
+		"ips": 6968,
+		"common": 1102
 	},
 	{
 		"name": "botscout",
@@ -536,8 +536,8 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6968,
-		"common": 1105
+		"ips": 6964,
+		"common": 1102
 	},
 	{
 		"name": "dragon_http",
@@ -848,8 +848,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91962,
-		"common": 2900
+		"ips": 91902,
+		"common": 2896
 	},
 	{
 		"name": "firehol_level1",
@@ -860,14 +860,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 116314,
-		"common": 98331
+		"ips": 116315,
+		"common": 98332
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568312,
-		"common": 4766
+		"ips": 9568313,
+		"common": 4765
 	},
 	{
 		"name": "firehol_proxies",
@@ -1538,25 +1538,25 @@
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
-		"ips": 1232,
-		"common": 39
+		"ips": 1291,
+		"common": 38
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 2391,
-		"common": 50
+		"ips": 2380,
+		"common": 49
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 9242,
+		"ips": 9246,
 		"common": 133
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 4915,
+		"ips": 4931,
 		"common": 84
 	},
 	{
@@ -1610,25 +1610,25 @@
 	{
 		"name": "proxz",
 		"category": "anonymizers",
-		"ips": 24,
-		"common": 2
+		"ips": 23,
+		"common": 1
 	},
 	{
 		"name": "proxz_1d",
 		"category": "anonymizers",
-		"ips": 275,
-		"common": 12
+		"ips": 274,
+		"common": 11
 	},
 	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
-		"ips": 2389,
+		"ips": 2387,
 		"common": 59
 	},
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
-		"ips": 909,
+		"ips": 914,
 		"common": 27
 	},
 	{
@@ -1640,7 +1640,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 862,
+		"ips": 861,
 		"common": 37
 	},
 	{
@@ -1984,6 +1984,12 @@
 		"category": "malware",
 		"ips": 127,
 		"common": 27
+	},
+	{
+		"name": "virbl",
+		"category": "spam",
+		"ips": 20,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
