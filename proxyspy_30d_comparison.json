@@ -290,7 +290,7 @@
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1995008,
+		"ips": 1992192,
 		"common": 55
 	},
 	{
@@ -344,7 +344,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91896,
+		"ips": 91835,
 		"common": 6332
 	},
 	{
@@ -362,7 +362,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2148528,
+		"ips": 2145713,
 		"common": 101
 	},
 	{
@@ -374,7 +374,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34525,
+		"ips": 34464,
 		"common": 6338
 	},
 	{
@@ -602,8 +602,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 37202,
-		"common": 63
+		"ips": 37200,
+		"common": 61
 	},
 	{
 		"name": "nullsecure",
@@ -620,7 +620,7 @@
 	{
 		"name": "packetmail_mail",
 		"category": "reputation",
-		"ips": 154,
+		"ips": 167,
 		"common": 4
 	},
 	{
@@ -806,7 +806,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 862,
+		"ips": 861,
 		"common": 1
 	},
 	{
@@ -894,21 +894,27 @@
 		"common": 18
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1462,
+		"ips": 1456,
 		"common": 10
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8217,
+		"ips": 8216,
 		"common": 38
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 3608,
+		"ips": 3605,
 		"common": 20
 	},
 	{
@@ -969,25 +975,25 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 36
+		"common": 35
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 654,
-		"common": 90
+		"ips": 612,
+		"common": 89
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 14566,
-		"common": 747
+		"ips": 14505,
+		"common": 746
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 3594,
-		"common": 298
+		"ips": 3595,
+		"common": 299
 	},
 	{
 		"name": "stopforumspam",
