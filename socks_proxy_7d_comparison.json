@@ -38,8 +38,8 @@
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
-		"ips": 3470,
-		"common": 100
+		"ips": 3212,
+		"common": 101
 	},
 	{
 		"name": "bi_mail_2_30d",
@@ -68,19 +68,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 18495,
+		"ips": 18531,
 		"common": 952
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9933,
+		"ips": 9935,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 15177,
+		"ips": 15203,
 		"common": 951
 	},
 	{
@@ -92,7 +92,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 7324,
+		"ips": 7316,
 		"common": 6
 	},
 	{
@@ -230,7 +230,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 303335,
+		"ips": 303345,
 		"common": 421
 	},
 	{
@@ -260,19 +260,19 @@
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 107520,
+		"ips": 109312,
 		"common": 3
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 2004992,
+		"ips": 2004224,
 		"common": 37
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 464896,
+		"ips": 466688,
 		"common": 6
 	},
 	{
@@ -290,31 +290,31 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91900,
+		"ips": 91847,
 		"common": 3600
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 126824,
+		"ips": 128654,
 		"common": 955
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2154889,
-		"common": 288
+		"ips": 2154160,
+		"common": 289
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568567,
+		"ips": 9568562,
 		"common": 134
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34517,
+		"ips": 34545,
 		"common": 3600
 	},
 	{
@@ -512,8 +512,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 30588,
-		"common": 733
+		"ips": 30798,
+		"common": 728
 	},
 	{
 		"name": "nullsecure",
@@ -554,8 +554,8 @@
 	{
 		"name": "packetmail_mail",
 		"category": "reputation",
-		"ips": 175,
-		"common": 15
+		"ips": 165,
+		"common": 14
 	},
 	{
 		"name": "php_commenters_30d",
@@ -782,7 +782,7 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8217,
+		"ips": 8216,
 		"common": 3635
 	},
 	{
@@ -837,24 +837,24 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 4
+		"common": 2
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 724,
+		"ips": 757,
 		"common": 11
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 14555,
+		"ips": 14583,
 		"common": 23
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 3584,
+		"ips": 3617,
 		"common": 19
 	},
 	{
@@ -908,8 +908,8 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 93323,
-		"common": 239
+		"ips": 93622,
+		"common": 240
 	},
 	{
 		"name": "turris_greylist",
