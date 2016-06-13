@@ -1,6 +1,6 @@
 #!/bin/bash
 [ ! "$1" = "YES_I_AM_SURE_DO_IT_PLEASE" ] && echo "READ ME NOW" && exit 1
-[ -f 'alienvault_reputation.ipset' ] && /bin/touch --date=@1465828202 'alienvault_reputation.ipset'
+[ -f 'alienvault_reputation.ipset' ] && /bin/touch --date=@1465849802 'alienvault_reputation.ipset'
 [ -f 'geolite2_country/anonymous.netset' ] && /bin/touch --date=@1462498435 'geolite2_country/anonymous.netset'
 [ -f 'asprox_c2.ipset' ] && /bin/touch --date=@1462185851 'asprox_c2.ipset'
 [ -f 'atlas_attacks.ipset' ] && /bin/touch --date=@1465689976 'atlas_attacks.ipset'
@@ -1141,7 +1141,7 @@
 [ -f 'virbl.ipset' ] && /bin/touch --date=@1465847523 'virbl.ipset'
 [ -f 'voipbl.netset' ] && /bin/touch --date=@1465839148 'voipbl.netset'
 [ -f 'vxvault.ipset' ] && /bin/touch --date=@1465816104 'vxvault.ipset'
-[ -f 'xroxy.ipset' ] && /bin/touch --date=@1465842781 'xroxy.ipset'
+[ -f 'xroxy.ipset' ] && /bin/touch --date=@1465849981 'xroxy.ipset'
 [ -f 'xroxy_1d.ipset' ] && /bin/touch --date=@1465846381 'xroxy_1d.ipset'
 [ -f 'xroxy_30d.ipset' ] && /bin/touch --date=@1465842781 'xroxy_30d.ipset'
 [ -f 'xroxy_7d.ipset' ] && /bin/touch --date=@1465846381 'xroxy_7d.ipset'
