@@ -122,7 +122,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 7315,
+		"ips": 7313,
 		"common": 9
 	},
 	{
@@ -362,19 +362,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 15929,
+		"ips": 15960,
 		"common": 322
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 331617,
+		"ips": 331632,
 		"common": 661
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91937,
+		"ips": 91938,
 		"common": 1043
 	},
 	{
@@ -398,13 +398,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9567779,
+		"ips": 9567773,
 		"common": 491
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34555,
+		"ips": 34556,
 		"common": 303
 	},
 	{
@@ -720,16 +720,28 @@
 		"common": 90
 	},
 	{
+		"name": "php_dictionary",
+		"category": "spam",
+		"ips": 50,
+		"common": 3
+	},
+	{
+		"name": "php_dictionary_1d",
+		"category": "spam",
+		"ips": 95,
+		"common": 3
+	},
+	{
 		"name": "php_dictionary_30d",
 		"category": "spam",
-		"ips": 1142,
-		"common": 10
+		"ips": 1168,
+		"common": 11
 	},
 	{
 		"name": "php_dictionary_7d",
 		"category": "spam",
-		"ips": 307,
-		"common": 6
+		"ips": 303,
+		"common": 7
 	},
 	{
 		"name": "php_harvesters",
