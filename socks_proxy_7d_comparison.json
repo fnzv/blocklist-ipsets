@@ -98,7 +98,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 6866,
+		"ips": 6867,
 		"common": 5
 	},
 	{
@@ -266,7 +266,7 @@
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 94464,
+		"ips": 93184,
 		"common": 2
 	},
 	{
@@ -278,7 +278,7 @@
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 464640,
+		"ips": 464896,
 		"common": 5
 	},
 	{
@@ -296,32 +296,32 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91879,
-		"common": 3516
+		"ips": 91881,
+		"common": 3517
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 114082,
+		"ips": 112549,
 		"common": 935
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 2138442,
-		"common": 301
+		"common": 302
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568348,
+		"ips": 9568349,
 		"common": 141
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34503,
-		"common": 3516
+		"ips": 34505,
+		"common": 3517
 	},
 	{
 		"name": "firehol_webserver",
@@ -777,7 +777,7 @@
 		"name": "snort_ipfilter",
 		"category": "attacks",
 		"ips": 93261,
-		"common": 237
+		"common": 238
 	},
 	{
 		"name": "socks_proxy",
@@ -788,14 +788,14 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1481,
-		"common": 1481
+		"ips": 1487,
+		"common": 1487
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
 		"ips": 8233,
-		"common": 3548
+		"common": 3550
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -854,19 +854,19 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 561,
+		"ips": 563,
 		"common": 7
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 14525,
+		"ips": 14527,
 		"common": 23
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 3496,
+		"ips": 3498,
 		"common": 19
 	},
 	{
@@ -921,7 +921,7 @@
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
 		"ips": 93947,
-		"common": 228
+		"common": 229
 	},
 	{
 		"name": "turris_greylist",
