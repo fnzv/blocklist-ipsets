@@ -14,14 +14,26 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 122701,
-		"common": 12
+		"ips": 121676,
+		"common": 13
+	},
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 46077606,
+		"common": 1
 	},
 	{
 		"name": "nixspam",
 		"category": "spam",
 		"ips": 37182,
 		"common": 2
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 45869192,
+		"common": 1
 	},
 	{
 		"name": "sorbs_new_spam",
