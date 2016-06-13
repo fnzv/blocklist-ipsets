@@ -92,8 +92,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 954,
-		"common": 32
+		"ips": 952,
+		"common": 33
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -242,7 +242,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 7204,
+		"ips": 7128,
 		"common": 167
 	},
 	{
@@ -294,16 +294,22 @@
 		"common": 352
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 25,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1411,
+		"ips": 1380,
 		"common": 36
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 19163,
-		"common": 500
+		"ips": 19138,
+		"common": 499
 	},
 	{
 		"name": "botscout_7d",
@@ -320,7 +326,7 @@
 	{
 		"name": "bruteforceblocker",
 		"category": "attacks",
-		"ips": 1139,
+		"ips": 1135,
 		"common": 16
 	},
 	{
@@ -356,55 +362,55 @@
 	{
 		"name": "cleanmx_viruses",
 		"category": "spam",
-		"ips": 9503,
-		"common": 176
+		"ips": 5898,
+		"common": 108
 	},
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 4488,
+		"ips": 4489,
 		"common": 115
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 10168,
+		"ips": 10103,
 		"common": 269
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 169918,
-		"common": 5030
+		"ips": 169863,
+		"common": 5026
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 34090,
+		"ips": 34114,
 		"common": 1110
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 2488,
+		"ips": 2489,
 		"common": 71
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 5159,
+		"ips": 5116,
 		"common": 133
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 111569,
+		"ips": 111566,
 		"common": 2521
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 22770,
+		"ips": 22791,
 		"common": 777
 	},
 	{
@@ -422,19 +428,19 @@
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 5956,
+		"ips": 5926,
 		"common": 144
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 94496,
-		"common": 3776
+		"ips": 94397,
+		"common": 3772
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 15515,
+		"ips": 15526,
 		"common": 453
 	},
 	{
@@ -608,19 +614,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 16730,
+		"ips": 16636,
 		"common": 487
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 328875,
-		"common": 8922
+		"ips": 328823,
+		"common": 8919
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91919,
+		"ips": 91918,
 		"common": 478
 	},
 	{
@@ -638,14 +644,14 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2138475,
+		"ips": 2138473,
 		"common": 28853
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568522,
-		"common": 1749
+		"ips": 9564891,
+		"common": 1682
 	},
 	{
 		"name": "firehol_proxies",
@@ -1244,7 +1250,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 860,
+		"ips": 861,
 		"common": 15
 	},
 	{
@@ -1364,20 +1370,20 @@
 	{
 		"name": "sorbs_dul",
 		"category": "spam",
-		"ips": 373414344,
+		"ips": 373411858,
 		"common": 2
 	},
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
-		"ips": 46958,
-		"common": 103
+		"ips": 52800,
+		"common": 116
 	},
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
-		"ips": 1121837,
-		"common": 1023
+		"ips": 1121748,
+		"common": 1026
 	},
 	{
 		"name": "sorbs_smtp",
@@ -1388,7 +1394,7 @@
 	{
 		"name": "sorbs_web",
 		"category": "spam",
-		"ips": 5997801,
+		"ips": 5997911,
 		"common": 919
 	},
 	{
@@ -1520,19 +1526,19 @@
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1109,
+		"ips": 1110,
 		"common": 39
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 3019,
+		"ips": 3018,
 		"common": 49
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1502,
+		"ips": 1497,
 		"common": 44
 	},
 	{
