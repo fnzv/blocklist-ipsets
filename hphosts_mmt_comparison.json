@@ -114,6 +114,18 @@
 		"common": 22
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 18523,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_ssh",
+		"category": "attacks",
+		"ips": 1663,
+		"common": 1
+	},
+	{
 		"name": "blueliv_crimeserver_last",
 		"category": "attacks",
 		"ips": 237,
@@ -242,13 +254,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 15887,
+		"ips": 15819,
 		"common": 1
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 331830,
+		"ips": 331725,
 		"common": 2
 	},
 	{
@@ -256,6 +268,12 @@
 		"category": "attacks",
 		"ips": 667231959,
 		"common": 28
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 127403,
+		"common": 1
 	},
 	{
 		"name": "firehol_level3",
@@ -488,7 +506,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 31053,
+		"ips": 31374,
 		"common": 1
 	},
 	{
