@@ -189,7 +189,7 @@
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 7306,
-		"common": 535
+		"common": 534
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
@@ -566,20 +566,20 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 128139,
+		"ips": 128140,
 		"common": 18492
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2152979,
-		"common": 1384
+		"ips": 2152215,
+		"common": 1385
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9568692,
-		"common": 1062
+		"common": 1061
 	},
 	{
 		"name": "firehol_proxies",
@@ -956,8 +956,8 @@
 	{
 		"name": "openbl_180d",
 		"category": "attacks",
-		"ips": 9484,
-		"common": 540
+		"ips": 9487,
+		"common": 541
 	},
 	{
 		"name": "openbl_1d",
@@ -968,32 +968,32 @@
 	{
 		"name": "openbl_30d",
 		"category": "attacks",
-		"ips": 2088,
-		"common": 432
+		"ips": 2087,
+		"common": 434
 	},
 	{
 		"name": "openbl_360d",
 		"category": "attacks",
-		"ips": 20857,
-		"common": 568
+		"ips": 20861,
+		"common": 569
 	},
 	{
 		"name": "openbl_60d",
 		"category": "attacks",
-		"ips": 3525,
-		"common": 475
+		"ips": 3522,
+		"common": 476
 	},
 	{
 		"name": "openbl_7d",
 		"category": "attacks",
-		"ips": 687,
-		"common": 306
+		"ips": 690,
+		"common": 310
 	},
 	{
 		"name": "openbl_90d",
 		"category": "attacks",
-		"ips": 5104,
-		"common": 501
+		"ips": 5105,
+		"common": 502
 	},
 	{
 		"name": "openbl_all",
@@ -1528,6 +1528,12 @@
 		"category": "reputation",
 		"ips": 7189,
 		"common": 375
+	},
+	{
+		"name": "virbl",
+		"category": "spam",
+		"ips": 10,
+		"common": 2
 	},
 	{
 		"name": "voipbl",

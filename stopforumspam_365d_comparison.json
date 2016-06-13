@@ -752,14 +752,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 128139,
-		"common": 1779
+		"ips": 128140,
+		"common": 1780
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2152979,
-		"common": 7125
+		"ips": 2152215,
+		"common": 7124
 	},
 	{
 		"name": "firehol_level4",
@@ -1238,7 +1238,7 @@
 	{
 		"name": "openbl_180d",
 		"category": "attacks",
-		"ips": 9484,
+		"ips": 9487,
 		"common": 298
 	},
 	{
@@ -1250,31 +1250,31 @@
 	{
 		"name": "openbl_30d",
 		"category": "attacks",
-		"ips": 2088,
+		"ips": 2087,
 		"common": 38
 	},
 	{
 		"name": "openbl_360d",
 		"category": "attacks",
-		"ips": 20857,
+		"ips": 20861,
 		"common": 784
 	},
 	{
 		"name": "openbl_60d",
 		"category": "attacks",
-		"ips": 3525,
+		"ips": 3522,
 		"common": 96
 	},
 	{
 		"name": "openbl_7d",
 		"category": "attacks",
-		"ips": 687,
+		"ips": 690,
 		"common": 13
 	},
 	{
 		"name": "openbl_90d",
 		"category": "attacks",
-		"ips": 5104,
+		"ips": 5105,
 		"common": 153
 	},
 	{
@@ -1828,6 +1828,12 @@
 		"category": "reputation",
 		"ips": 7189,
 		"common": 63
+	},
+	{
+		"name": "virbl",
+		"category": "spam",
+		"ips": 10,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
