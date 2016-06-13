@@ -464,7 +464,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91901,
+		"ips": 91899,
 		"common": 6
 	},
 	{
@@ -476,7 +476,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 126855,
+		"ips": 126821,
 		"common": 14
 	},
 	{
@@ -494,7 +494,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34518,
+		"ips": 34516,
 		"common": 1
 	},
 	{
@@ -794,7 +794,7 @@
 	{
 		"name": "iblocklist_spamhaus_drop",
 		"category": "attacks",
-		"ips": 22836992,
+		"ips": 22836736,
 		"common": 2
 	},
 	{
@@ -850,6 +850,12 @@
 		"category": "malware",
 		"ips": 1518,
 		"common": 10
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 30379,
+		"common": 1
 	},
 	{
 		"name": "nullsecure",
