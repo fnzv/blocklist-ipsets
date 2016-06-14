@@ -39,24 +39,30 @@
 		"name": "bi_any_2_1d",
 		"category": "attacks",
 		"ips": 1087,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 8490,
-		"common": 16
+		"common": 17
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 3230,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "bi_mail_2_30d",
 		"category": "attacks",
 		"ips": 1948,
+		"common": 1
+	},
+	{
+		"name": "bi_ssh_2_30d",
+		"category": "attacks",
+		"ips": 6118,
 		"common": 1
 	},
 	{
@@ -68,14 +74,20 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 18964,
-		"common": 83
+		"ips": 19016,
+		"common": 84
 	},
 	{
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 898,
 		"common": 3
+	},
+	{
+		"name": "darklist_de",
+		"category": "attacks",
+		"ips": 253399,
+		"common": 1
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -134,8 +146,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 110172,
-		"common": 83
+		"ips": 110222,
+		"common": 84
 	},
 	{
 		"name": "firehol_level3",
