@@ -50,14 +50,14 @@
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 117,
+		"ips": 116,
 		"common": 14
 	},
 	{
 		"name": "bambenek_suppobox",
 		"category": "malware",
-		"ips": 65,
-		"common": 6
+		"ips": 67,
+		"common": 7
 	},
 	{
 		"name": "bambenek_tinba",
@@ -80,13 +80,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 18970,
+		"ips": 18951,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1901,
+		"ips": 1899,
 		"common": 1
 	},
 	{
@@ -176,8 +176,8 @@
 	{
 		"name": "cleanmx_phishing",
 		"category": "spam",
-		"ips": 4591,
-		"common": 45
+		"ips": 3264,
+		"common": 38
 	},
 	{
 		"name": "cleanmx_viruses",
@@ -264,21 +264,27 @@
 		"common": 1
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 2
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 92416,
+		"ips": 91136,
 		"common": 10
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1980928,
+		"ips": 1981184,
 		"common": 47
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 463616,
+		"ips": 463872,
 		"common": 23
 	},
 	{
@@ -362,19 +368,19 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 667232361,
-		"common": 38
+		"ips": 667232358,
+		"common": 40
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 111973,
+		"ips": 110674,
 		"common": 11
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2134078,
+		"ips": 2133056,
 		"common": 60
 	},
 	{
