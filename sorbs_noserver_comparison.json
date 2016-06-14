@@ -158,7 +158,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 7047,
+		"ips": 7046,
 		"common": 28
 	},
 	{
@@ -308,7 +308,7 @@
 	{
 		"name": "cruzit_web_attacks",
 		"category": "attacks",
-		"ips": 5886,
+		"ips": 5887,
 		"common": 28
 	},
 	{
@@ -572,8 +572,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91827,
-		"common": 136
+		"ips": 91835,
+		"common": 140
 	},
 	{
 		"name": "firehol_level1",
@@ -590,7 +590,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2132732,
+		"ips": 2132733,
 		"common": 31166
 	},
 	{
@@ -602,8 +602,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34548,
-		"common": 91
+		"ips": 34556,
+		"common": 95
 	},
 	{
 		"name": "firehol_webserver",
@@ -812,8 +812,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 36287,
-		"common": 883
+		"ips": 35191,
+		"common": 871
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1056,21 +1056,27 @@
 		"common": 3339
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1498,
+		"ips": 1504,
 		"common": 4
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8240,
+		"ips": 8241,
 		"common": 42
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 3528,
+		"ips": 3532,
 		"common": 15
 	},
 	{
@@ -1140,22 +1146,28 @@
 		"common": 7
 	},
 	{
+		"name": "sslproxies",
+		"category": "anonymizers",
+		"ips": 100,
+		"common": 4
+	},
+	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 581,
-		"common": 2
+		"ips": 617,
+		"common": 6
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 14572,
-		"common": 29
+		"ips": 14574,
+		"common": 33
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 3537,
-		"common": 6
+		"ips": 3574,
+		"common": 10
 	},
 	{
 		"name": "stopforumspam",
@@ -1208,7 +1220,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 92952,
+		"ips": 92945,
 		"common": 3387
 	},
 	{
