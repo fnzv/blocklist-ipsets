@@ -42,6 +42,12 @@
 		"common": 2
 	},
 	{
+		"name": "bambenek_c2",
+		"category": "malware",
+		"ips": 234,
+		"common": 1
+	},
+	{
 		"name": "bambenek_simda",
 		"category": "malware",
 		"ips": 118,
@@ -326,8 +332,8 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 898,
-		"common": 107
+		"ips": 918,
+		"common": 108
 	},
 	{
 		"name": "cidr_report_bogons",
@@ -747,7 +753,7 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 667232095,
-		"common": 5866
+		"common": 5867
 	},
 	{
 		"name": "firehol_level2",
@@ -758,8 +764,8 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2126066,
-		"common": 327358
+		"ips": 2126079,
+		"common": 327359
 	},
 	{
 		"name": "firehol_level4",
@@ -1458,28 +1464,22 @@
 		"common": 170
 	},
 	{
-		"name": "proxz",
-		"category": "anonymizers",
-		"ips": 22,
-		"common": 2
-	},
-	{
 		"name": "proxz_1d",
 		"category": "anonymizers",
-		"ips": 273,
-		"common": 15
+		"ips": 257,
+		"common": 13
 	},
 	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
-		"ips": 2398,
+		"ips": 2399,
 		"common": 265
 	},
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
-		"ips": 924,
-		"common": 78
+		"ips": 918,
+		"common": 76
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -1490,7 +1490,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 861,
+		"ips": 862,
 		"common": 1
 	},
 	{
