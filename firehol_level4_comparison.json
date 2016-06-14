@@ -249,7 +249,7 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 18998,
-		"common": 1131
+		"common": 1132
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -273,7 +273,7 @@
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
 		"ips": 442,
-		"common": 171
+		"common": 172
 	},
 	{
 		"name": "blocklist_de_imap",
@@ -308,8 +308,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 7058,
-		"common": 7058
+		"ips": 7060,
+		"common": 7060
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -447,49 +447,49 @@
 		"name": "cleantalk",
 		"category": "abuse",
 		"ips": 4939,
-		"common": 581
+		"common": 582
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
 		"ips": 10310,
-		"common": 1037
+		"common": 1038
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 166354,
-		"common": 11759
+		"common": 11760
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
 		"ips": 34153,
-		"common": 2509
+		"common": 2510
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
 		"ips": 2939,
-		"common": 131
+		"common": 132
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
 		"ips": 5394,
-		"common": 238
+		"common": 239
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
 		"ips": 109561,
-		"common": 4276
+		"common": 4277
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
 		"ips": 22898,
-		"common": 868
+		"common": 869
 	},
 	{
 		"name": "cleantalk_top20",
@@ -837,13 +837,13 @@
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
 		"ips": 16860,
-		"common": 3359
+		"common": 3360
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 325668,
-		"common": 18555
+		"common": 18556
 	},
 	{
 		"name": "firehol_anonymous",
@@ -860,8 +860,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 108663,
-		"common": 2086
+		"ips": 109689,
+		"common": 2089
 	},
 	{
 		"name": "firehol_level3",
@@ -1670,7 +1670,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 861,
+		"ips": 863,
 		"common": 117
 	},
 	{
@@ -2020,6 +2020,12 @@
 		"category": "malware",
 		"ips": 127,
 		"common": 32
+	},
+	{
+		"name": "virbl",
+		"category": "spam",
+		"ips": 24,
+		"common": 1
 	},
 	{
 		"name": "voipbl",

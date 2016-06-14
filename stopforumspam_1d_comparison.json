@@ -110,7 +110,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 7058,
+		"ips": 7060,
 		"common": 159
 	},
 	{
@@ -434,8 +434,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 108663,
-		"common": 310
+		"ips": 109689,
+		"common": 311
 	},
 	{
 		"name": "firehol_level3",
@@ -446,7 +446,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568607,
+		"ips": 9568608,
 		"common": 1888
 	},
 	{
@@ -1270,6 +1270,12 @@
 		"category": "reputation",
 		"ips": 7189,
 		"common": 6
+	},
+	{
+		"name": "virbl",
+		"category": "spam",
+		"ips": 24,
+		"common": 1
 	},
 	{
 		"name": "xroxy",

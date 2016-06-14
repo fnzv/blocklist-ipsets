@@ -182,8 +182,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 7058,
-		"common": 1648
+		"ips": 7060,
+		"common": 1650
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -716,8 +716,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 108663,
-		"common": 2090
+		"ips": 109689,
+		"common": 2092
 	},
 	{
 		"name": "firehol_level3",
@@ -728,8 +728,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568607,
-		"common": 18555
+		"ips": 9568608,
+		"common": 18556
 	},
 	{
 		"name": "firehol_proxies",
@@ -1454,7 +1454,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 861,
+		"ips": 863,
 		"common": 5
 	},
 	{
@@ -1774,6 +1774,12 @@
 		"category": "reputation",
 		"ips": 7189,
 		"common": 100
+	},
+	{
+		"name": "virbl",
+		"category": "spam",
+		"ips": 24,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
