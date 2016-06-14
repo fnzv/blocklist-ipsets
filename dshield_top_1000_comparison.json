@@ -110,25 +110,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 19185,
+		"ips": 19148,
 		"common": 12
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 10032,
+		"ips": 10028,
 		"common": 5
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 15394,
+		"ips": 15369,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1979,
+		"ips": 1973,
 		"common": 6
 	},
 	{
@@ -404,7 +404,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 105263,
+		"ips": 105228,
 		"common": 62
 	},
 	{
@@ -742,6 +742,12 @@
 		"category": "reputation",
 		"ips": 45869192,
 		"common": 192
+	},
+	{
+		"name": "ransomware_feed",
+		"category": "malware",
+		"ips": 862,
+		"common": 1
 	},
 	{
 		"name": "sblam",
