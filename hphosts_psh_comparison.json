@@ -500,8 +500,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 16970,
-		"common": 1
+		"ips": 17006,
+		"common": 2
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -512,7 +512,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91937,
+		"ips": 91939,
 		"common": 2
 	},
 	{
@@ -944,7 +944,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 861,
+		"ips": 860,
 		"common": 79
 	},
 	{
@@ -1030,6 +1030,12 @@
 		"category": "abuse",
 		"ips": 332977,
 		"common": 13
+	},
+	{
+		"name": "stopforumspam_1d",
+		"category": "abuse",
+		"ips": 5696,
+		"common": 1
 	},
 	{
 		"name": "stopforumspam_30d",
