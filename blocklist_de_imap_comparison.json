@@ -45,7 +45,7 @@
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 8490,
-		"common": 182
+		"common": 183
 	},
 	{
 		"name": "bi_any_2_7d",
@@ -69,7 +69,7 @@
 		"name": "bi_mail_2_30d",
 		"category": "attacks",
 		"ips": 1948,
-		"common": 180
+		"common": 181
 	},
 	{
 		"name": "bi_ssh_2_30d",
@@ -80,25 +80,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 19008,
-		"common": 892
+		"ips": 18995,
+		"common": 896
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 15243,
-		"common": 892
+		"ips": 15236,
+		"common": 896
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 80,
-		"common": 5
+		"ips": 81,
+		"common": 4
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 7051,
+		"ips": 7055,
 		"common": 2
 	},
 	{
@@ -134,49 +134,49 @@
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 10285,
+		"ips": 10263,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 166635,
+		"ips": 166513,
 		"common": 10
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 34174,
+		"ips": 34075,
 		"common": 4
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 109732,
+		"ips": 109653,
 		"common": 7
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 22900,
+		"ips": 22834,
 		"common": 3
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 5844,
+		"ips": 5838,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 90995,
+		"ips": 90928,
 		"common": 3
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 15437,
+		"ips": 15372,
 		"common": 1
 	},
 	{
@@ -218,13 +218,13 @@
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1979136,
+		"ips": 1978112,
 		"common": 63
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 463104,
+		"ips": 462080,
 		"common": 22
 	},
 	{
@@ -254,37 +254,37 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 16824,
+		"ips": 16803,
 		"common": 2
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 325912,
+		"ips": 325806,
 		"common": 10
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 667232362,
+		"ips": 667232103,
 		"common": 25
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 109696,
-		"common": 892
+		"ips": 109684,
+		"common": 896
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2127601,
+		"ips": 2126577,
 		"common": 103
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9565283,
+		"ips": 9565287,
 		"common": 9
 	},
 	{
@@ -357,7 +357,7 @@
 		"name": "iblocklist_isp_twc",
 		"category": "organizations",
 		"ips": 15015936,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "iblocklist_isp_verizon",
@@ -369,19 +369,19 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762822833,
-		"common": 23
+		"common": 25
 	},
 	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 70
+		"common": 71
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 44
+		"common": 45
 	},
 	{
 		"name": "iblocklist_org_blizzard",
@@ -405,7 +405,7 @@
 		"name": "iblocklist_rangetest",
 		"category": "reputation",
 		"ips": 4346058,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "iblocklist_spamhaus_drop",
@@ -465,7 +465,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 353789,
-		"common": 15
+		"common": 14
 	},
 	{
 		"name": "myip",
@@ -585,7 +585,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373411838,
-		"common": 48
+		"common": 50
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -615,7 +615,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136181733,
-		"common": 73
+		"common": 72
 	},
 	{
 		"name": "spamhaus_drop",
@@ -699,7 +699,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 7189,
-		"common": 71
+		"common": 73
 	},
 	{
 		"name": "voipbl",
