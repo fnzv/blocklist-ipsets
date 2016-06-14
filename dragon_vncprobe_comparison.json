@@ -56,13 +56,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 18899,
+		"ips": 18940,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1882,
+		"ips": 1892,
 		"common": 1
 	},
 	{
@@ -111,7 +111,13 @@
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 22842678,
-		"common": 1
+		"common": 3
+	},
+	{
+		"name": "et_dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 2
 	},
 	{
 		"name": "et_spamhaus",
@@ -128,7 +134,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 111387,
+		"ips": 111428,
 		"common": 5
 	},
 	{
@@ -254,7 +260,7 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 1275,
+		"ips": 1273,
 		"common": 11
 	},
 	{

@@ -92,13 +92,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 18899,
+		"ips": 18940,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1882,
+		"ips": 1892,
 		"common": 1
 	},
 	{
@@ -158,37 +158,37 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 4831,
+		"ips": 4870,
 		"common": 52
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 10244,
+		"ips": 10247,
 		"common": 66
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 167560,
-		"common": 268
+		"ips": 167469,
+		"common": 267
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 34132,
+		"ips": 34110,
 		"common": 89
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 110352,
+		"ips": 110286,
 		"common": 26
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 22827,
+		"ips": 22809,
 		"common": 2
 	},
 	{
@@ -200,19 +200,19 @@
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 5887,
+		"ips": 5877,
 		"common": 73
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 91654,
-		"common": 276
+		"ips": 91602,
+		"common": 275
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 15468,
+		"ips": 15466,
 		"common": 100
 	},
 	{
@@ -338,13 +338,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 16714,
+		"ips": 16707,
 		"common": 209
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 326747,
+		"ips": 326666,
 		"common": 326
 	},
 	{
@@ -362,7 +362,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 111387,
+		"ips": 111428,
 		"common": 8
 	},
 	{
@@ -590,13 +590,19 @@
 	{
 		"name": "lashback_ubl",
 		"category": "spam",
-		"ips": 358094,
+		"ips": 353789,
 		"common": 1
 	},
 	{
 		"name": "myip",
 		"category": "abuse",
 		"ips": 2094,
+		"common": 1
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 36839,
 		"common": 1
 	},
 	{
@@ -632,8 +638,8 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 1275,
-		"common": 1
+		"ips": 1273,
+		"common": 2
 	},
 	{
 		"name": "packetmail_emerging_ips",
