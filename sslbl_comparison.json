@@ -30,6 +30,12 @@
 		"common": 2
 	},
 	{
+		"name": "cleanmx_viruses",
+		"category": "spam",
+		"ips": 9919,
+		"common": 1
+	},
+	{
 		"name": "dragon_http",
 		"category": "attacks",
 		"ips": 59136,
@@ -74,7 +80,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 667232103,
+		"ips": 667232092,
 		"common": 89
 	},
 	{
@@ -88,6 +94,12 @@
 		"category": "attacks",
 		"ips": 2126577,
 		"common": 89
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9568606,
+		"common": 1
 	},
 	{
 		"name": "firehol_webserver",

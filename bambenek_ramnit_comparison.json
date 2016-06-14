@@ -8,8 +8,8 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 245,
-		"common": 7
+		"ips": 234,
+		"common": 8
 	},
 	{
 		"name": "bambenek_dircrypt",
@@ -54,6 +54,12 @@
 		"common": 5
 	},
 	{
+		"name": "cleanmx_viruses",
+		"category": "spam",
+		"ips": 9919,
+		"common": 2
+	},
+	{
 		"name": "cta_cryptowall",
 		"category": "malware",
 		"ips": 1360,
@@ -62,8 +68,14 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 667232103,
-		"common": 7
+		"ips": 667232092,
+		"common": 8
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9568606,
+		"common": 2
 	},
 	{
 		"name": "firehol_webserver",
