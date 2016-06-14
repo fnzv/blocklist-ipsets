@@ -114,6 +114,12 @@
 		"common": 1
 	},
 	{
+		"name": "bambenek_pykspa",
+		"category": "malware",
+		"ips": 6,
+		"common": 1
+	},
+	{
 		"name": "bambenek_ramnit",
 		"category": "malware",
 		"ips": 7,
@@ -122,7 +128,7 @@
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 116,
+		"ips": 115,
 		"common": 38
 	},
 	{
@@ -224,19 +230,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 19016,
+		"ips": 18975,
 		"common": 24
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 10055,
+		"ips": 10053,
 		"common": 14
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 535,
+		"ips": 528,
 		"common": 2
 	},
 	{
@@ -248,19 +254,19 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 905,
+		"ips": 895,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 15245,
+		"ips": 15222,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1934,
+		"ips": 1930,
 		"common": 6
 	},
 	{
@@ -680,7 +686,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 91835,
+		"ips": 91850,
 		"common": 35
 	},
 	{
@@ -692,7 +698,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 110222,
+		"ips": 110180,
 		"common": 111
 	},
 	{
@@ -710,7 +716,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 34556,
+		"ips": 34571,
 		"common": 19
 	},
 	{
@@ -1346,8 +1352,8 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 863,
-		"common": 179
+		"ips": 862,
+		"common": 178
 	},
 	{
 		"name": "ransomware_locky_c2",
@@ -1418,19 +1424,19 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1504,
+		"ips": 1505,
 		"common": 2
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8241,
+		"ips": 8243,
 		"common": 3
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 3532,
+		"ips": 3533,
 		"common": 3
 	},
 	{
